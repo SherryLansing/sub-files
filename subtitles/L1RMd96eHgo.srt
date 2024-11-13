@@ -1,0 +1,434 @@
+1
+00:00:00,349 --> 00:00:01,950
+我真不敢相信！
+I can't believe this.
+
+2
+00:00:01,950 --> 00:00:04,251
+大家请拿稳你们的资料！
+Now hold on to your papers, fellow scholars
+
+3
+00:00:04,251 --> 00:00:08,913
+因为这个人工智能可以分析《我的世界》的游戏玩法
+because this AI is able to look at gameplay of Minecraft
+
+4
+00:00:08,913 --> 00:00:10,954
+并理解游戏的运作方式
+and learn how the game works
+
+5
+00:00:10,954 --> 00:00:12,955
+然后一切就变得疯狂了
+and then it gets crazy.
+
+6
+00:00:12,955 --> 00:00:15,617
+接着 它会为你重现这个游戏
+After that, it recreates the game for you
+
+7
+00:00:15,617 --> 00:00:18,738
+你可以马上实时体验这款游戏
+that you can play in real time right now
+
+8
+00:00:18,738 --> 00:00:20,959
+通过视频下方的链接
+through the link in the video description.
+
+9
+00:00:20,959 --> 00:00:21,980
+我必须说
+I got to say
+
+10
+00:00:21,980 --> 00:00:23,861
+运行得简直如梦似幻
+it runs like a dream.
+
+11
+00:00:23,861 --> 00:00:26,663
+这好坏参半
+In a good way, and in a bad way too.
+
+12
+00:00:26,663 --> 00:00:28,424
+我真不敢相信这竟是真的
+I really can't believe this
+
+13
+00:00:28,424 --> 00:00:32,787
+因为我们刚才还谈论过谷歌和《毁灭战士》的项目
+because we just talked about Google's project on doing this with Doom,
+
+14
+00:00:32,787 --> 00:00:36,089
+而仅仅过了几天 我们就见到了这个
+and just a few days later, here we are.
+
+15
+00:00:36,089 --> 00:00:38,891
+这些真的很惊人 因为在这里的表现
+And these are really amazing, because here
+
+16
+00:00:38,891 --> 00:00:43,314
+我们不仅仅是给它输入文本来生成图像或视频
+we don't just give it a text prompt to generate an image or video
+
+17
+00:00:43,314 --> 00:00:49,878
+而是可以直接用键盘和鼠标与模型实时互动
+but we can interact with the model in real time using a keyboard and mouse.
+
+18
+00:00:49,878 --> 00:00:56,222
+所以 这意味着我们可以走动、探索、跳跃 甚至打破方块
+So, yes, that means we can walk around, explore, jump, and hit blocks.
+
+19
+00:00:56,222 --> 00:00:57,382
+这非常不错！
+That is good.
+
+20
+00:00:57,382 --> 00:00:59,463
+但更棒的部分来了！
+But here comes the better part.
+
+21
+00:00:59,463 --> 00:01:05,066
+你甚至可以打开物品栏 放置物品、铲子等
+You can even open up your inventory, place objects, shovel, and more.
+
+22
+00:01:05,066 --> 00:01:08,602
+把火把放到墙上 它就亮起了
+And when placing a torch on the wall, it lights up.
+
+23
+00:01:08,602 --> 00:01:10,302
+它对此也能理解
+it understands that too
+
+24
+00:01:10,302 --> 00:01:12,105
+而当你吃东西的时候
+and when you eat some food
+
+25
+00:01:12,105 --> 00:01:15,387
+它会把这东西从你的库存中拿掉
+it kind of removes it from your stockpile
+
+26
+00:01:15,387 --> 00:01:19,430
+如果你能从这两个像素中看出来的话
+if you can make it out from the two pixels that we see here.
+
+27
+00:01:19,430 --> 00:01:21,311
+现在要说的是糟糕的部分
+Now comes the bad part.
+
+28
+00:01:21,311 --> 00:01:22,833
+欢迎收看《两分钟论文》
+Dear Fellow Scholars, this is
+
+29
+00:01:22,833 --> 00:01:25,495
+我是卡罗利·佐尔奈-费赫尔博士
+Two Minute Papers with Dr. Károly Zsolnai-Fehér.
+
+30
+00:01:25,495 --> 00:01:27,016
+那么 问题出在哪里呢？
+Okay, so what's bad?
+
+31
+00:01:27,016 --> 00:01:31,439
+嗯 它的像素非常粗糙 分辨率也极低
+Well, it is highly pixelated and super low resolution.
+
+32
+00:01:31,439 --> 00:01:33,040
+而且 不止如此
+But Not only that
+
+33
+00:01:33,040 --> 00:01:35,340
+画面会变得非常马赛克
+things can get so pixelated
+
+34
+00:01:35,340 --> 00:01:38,361
+我根本不知道我在看什么
+I am not even sure what I am looking at here.
+
+35
+00:01:38,361 --> 00:01:42,162
+这好像是一种动物 可能是一只猪
+This is supposed to be some sort of animal, a pig perhaps.
+
+36
+00:01:42,162 --> 00:01:47,284
+而且 它的记忆大约只有几分钟 对吧？
+Also, it has memory in the order of a few minutes, right?
+
+37
+00:01:47,284 --> 00:01:48,123
+不太对
+Not quite.
+
+38
+00:01:48,123 --> 00:01:50,964
+只持续不到3秒
+It is less than 3 seconds.
+
+39
+00:01:50,964 --> 00:01:53,485
+这意味着物体不会保持存在
+That means no object permanence.
+
+40
+00:01:53,485 --> 00:01:55,846
+看开一会儿 再看回去
+look away, then look back
+
+41
+00:01:55,846 --> 00:01:58,549
+你会发现自己在一个完全不同的地方
+and you are suddenly somewhere else.
+
+42
+00:01:58,549 --> 00:02:00,771
+所以它的运行效果真是非常顺畅
+So it really runs like a dream
+
+43
+00:02:00,771 --> 00:02:03,914
+因为每秒超过20帧
+because they got over 20 frames per second
+
+44
+00:02:03,914 --> 00:02:06,977
+但它也带有一种梦幻般的效果
+but it also has this dreamlike quality
+
+45
+00:02:06,977 --> 00:02:11,080
+几秒前的事情就记不清了
+without remembering what just happened a couple seconds ago.
+
+46
+00:02:11,080 --> 00:02:13,482
+不过 这并不是重点
+However, that is not the point.
+
+47
+00:02:13,482 --> 00:02:17,925
+关键是 几年前不可能的事
+The point is that something that was not possible a couple years ago
+
+48
+00:02:17,925 --> 00:02:20,206
+如今竟然变成了现实
+is now suddenly possible.
+
+49
+00:02:20,206 --> 00:02:23,970
+没错 这可能是人工智能历史上的一个重要时刻
+Yes, this might be a historic moment in AI
+
+50
+00:02:23,970 --> 00:02:27,853
+因为这只是新技术的开始
+as this is just the beginning of a new kind of technology.
+
+51
+00:02:27,853 --> 00:02:31,855
+有点像在ChatGPT之前的GPT-2
+Kind of like what GPT-2 was before ChatGPT.
+
+52
+00:02:31,855 --> 00:02:36,960
+虽然GPT-2很有趣 但很少有人意识到它的潜力
+GPT-2 was interesting, but very few saw the potential in it.
+
+53
+00:02:36,960 --> 00:02:39,322
+而现在 我们有了ChatGPT
+And now we have ChatGPT
+
+54
+00:02:39,322 --> 00:02:43,485
+它是一个强大的存在 迅速引起了全球的关注
+which is an absolute powerhouse that took the world by storm.
+
+55
+00:02:43,485 --> 00:02:45,967
+现在 这个真是快得惊人
+Now, this is incredibly fast.
+
+56
+00:02:45,967 --> 00:02:49,188
+这里有个有趣的与之前系统的比较
+Here is a weird comparison against previous systems.
+
+57
+00:02:49,188 --> 00:02:53,510
+这个生成一个画面只需不到10秒
+This does not need 10 to 20 seconds to create one frame.
+
+58
+00:02:53,510 --> 00:02:56,633
+这个每秒超过20帧
+This does over 20 frames per second.
+
+59
+00:02:56,633 --> 00:02:57,833
+实在是太令人印象深刻了
+Very impressive.
+
+60
+00:02:57,833 --> 00:03:01,594
+不过 这仍需依赖专有硬件
+Now note that this still runs on proprietary hardware.
+
+61
+00:03:01,594 --> 00:03:05,997
+不过 模型参数很适合你们这些优秀的学者们
+However, the model weights are available for you brilliant Fellow Scholars
+
+62
+00:03:05,997 --> 00:03:07,199
+进行探索
+to tinker with
+
+63
+00:03:07,199 --> 00:03:09,479
+好消息来啦！
+and here come the good news.
+
+64
+00:03:09,479 --> 00:03:11,040
+截至制作这段视频时
+As of the making of this video
+
+65
+00:03:11,040 --> 00:03:14,544
+你可以通过视频描述中的链接亲自试试
+you can try it out yourself through the link in the description.
+
+66
+00:03:14,544 --> 00:03:18,366
+而且 这个模型有五亿个参数
+Also, this is a small half-billion parameter model
+
+67
+00:03:18,366 --> 00:03:21,867
+因此 它可能会随着时间的推移而扩展
+so it can and likely will be scaled up
+
+68
+00:03:21,867 --> 00:03:24,909
+以提供更高的分辨率
+over time to get higher resolution results.
+
+69
+00:03:24,909 --> 00:03:27,751
+而且 他们使用的专业硬件
+and the specialized hardware they use to run it
+
+70
+00:03:27,751 --> 00:03:30,233
+我之前从未听说过
+is something I haven't heard of before
+
+71
+00:03:30,233 --> 00:03:33,813
+这有可能对英伟达造成一定竞争
+that could give a little competition for NVIDIA.
+
+72
+00:03:33,813 --> 00:03:36,455
+这对消费者总是好事
+That is always good for the consumer.
+
+73
+00:03:36,455 --> 00:03:38,175
+因此 赶快去试试
+So, make sure to go ahead
+
+74
+00:03:38,175 --> 00:03:40,056
+在视频描述里试试看！
+and try it in the video description
+
+75
+00:03:40,056 --> 00:03:41,777
+欢迎分享你的想法！
+and let me know what you think.
+
+76
+00:03:41,777 --> 00:03:43,538
+你们这些学者试过这个吗？
+Have you fellow scholars tried it?
+
+77
+00:03:43,538 --> 00:03:44,538
+你们觉得效果如何呢？
+How did it go?
+
+78
+00:03:44,538 --> 00:03:46,379
+请在评论区告诉我你的想法！
+Let me know in the comments below.
+
+79
+00:03:46,379 --> 00:03:48,221
+如果你感到启发
+And if you feel inspired
+
+80
+00:03:48,221 --> 00:03:54,343
+想要在英伟达GPU上进行实验的话 不妨看看Lambda
+and you wish to run your own experiments on NVIDIA GPUs, check out Lambda.
+
+81
+00:03:54,343 --> 00:03:58,467
+Lambda是一个专为大规模人工智能项目设计的云服务
+Lambda is a cloud service for large-scale AI projects
+
+82
+00:03:58,467 --> 00:04:01,471
+这可是我最爱的服务！
+and it is my absolute favorite.
+
+83
+00:04:01,471 --> 00:04:06,074
+认真推荐 快去lambdalabs.com/papers试试吧
+Seriously, try it out now at lambdalabs.com slash papers
+
+84
+00:04:06,074 --> 00:04:08,276
+或者直接点击描述里的链接
+or click the link in the description.
+
+85
+00:04:08,276 --> 00:04:09,457
+如果你选择使用Lambda服务
+If you use Lambda
+
+86
+00:04:09,457 --> 00:04:13,442
+就可以在强大的硬件上进行自己的实验
+you can run your own experiments on super powerful hardware
+
+87
+00:04:13,442 --> 00:04:15,903
+并支持《两分钟论文》
+and you also support Two Minute Papers.
