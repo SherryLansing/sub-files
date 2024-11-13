@@ -1,0 +1,674 @@
+1
+00:00:00,189 --> 00:00:03,412
+虚幻引擎 流行的游戏开发平台
+Unreal Engine, a popular game development platform
+
+2
+00:00:03,412 --> 00:00:06,235
+刚刚推出了一项令人惊叹的新功能
+just dropped something truly insane.
+
+3
+00:00:06,235 --> 00:00:10,159
+它拥有令人惊叹的众多功能
+It is chock full of absolutely amazing features.
+
+4
+00:00:10,159 --> 00:00:12,181
+而这就是所有功能中最出色的
+And this is the best of them all.
+
+5
+00:00:12,181 --> 00:00:14,062
+它的名字是Megalite
+It is called Megalite.
+
+6
+00:00:14,062 --> 00:00:18,867
+接下来 让我们来看看这个令人兴奋的功能集合
+Then we look at this insane collection of features that are in the works.
+
+7
+00:00:18,867 --> 00:00:22,370
+Megalite可以利用这些创造虚拟世界
+Megalites can create virtual worlds with these.
+
+8
+00:00:22,370 --> 00:00:24,811
+哇 这是真的吗？
+Ooh, am I seeing correctly?
+
+9
+00:00:24,811 --> 00:00:26,551
+我简直不敢相信！
+I cannot believe it!
+
+10
+00:00:26,551 --> 00:00:31,513
+这些光源有着细腻的纹理 优雅地为环境添彩
+These are textured aerial lights beautifully coloring their surroundings
+
+11
+00:00:31,513 --> 00:00:35,294
+而我另一个最爱的则是那柔和的阴影
+and my other favorite, beautiful soft shadows.
+
+12
+00:00:35,294 --> 00:00:39,035
+好的 我们知道这过程非常漫长 之前也是这样
+Okay, we know that this takes forever, as previously
+
+13
+00:00:39,035 --> 00:00:42,936
+我们之前需要进行一个非常慢的光线模拟
+we needed to run a super slow light simulation for this
+
+14
+00:00:42,936 --> 00:00:46,617
+并等待这些讨厌的噪音消除
+and wait for all this nasty noise to clean up.
+
+15
+00:00:46,617 --> 00:00:48,659
+这需要多长时间？
+So, how long does this take?
+
+16
+00:00:48,659 --> 00:00:52,203
+嗯 这个并不是提前计算的
+Well, this was not computed in advance, yes
+
+17
+00:00:52,203 --> 00:00:55,306
+你现在看到的就是实时运行的效果
+you are seeing it running in real time.
+
+18
+00:00:55,306 --> 00:00:57,107
+太震撼了！
+That is mind-blowing.
+
+19
+00:00:57,107 --> 00:00:57,848
+哇！
+Wow.
+
+20
+00:00:57,848 --> 00:01:01,692
+现在 我只需要一台能够运行这个的电脑
+Now, I just need a PC that would be able to run this thing
+
+21
+00:01:01,692 --> 00:01:04,754
+那么我们就进入这个黑市吧
+so let's enter this shady marketplace.
+
+22
+00:01:04,754 --> 00:01:08,998
+他们可能在卖掉某些灰色来源的Nvidia显卡
+Perhaps they are selling Nvidia cards that have fallen off the truck.
+
+23
+00:01:08,998 --> 00:01:11,081
+这可不容易找
+They are not easy to come by.
+
+24
+00:01:11,081 --> 00:01:12,040
+我们买一个试试吧
+Let's buy one.
+
+25
+00:01:12,040 --> 00:01:13,382
+嗯 等一下
+Hmm, wait a minute.
+
+26
+00:01:13,382 --> 00:01:16,102
+这个市场一点儿都不阴险
+This marketplace is not shady at all.
+
+27
+00:01:16,102 --> 00:01:18,144
+这里的灯光很多 十分绚丽
+There are many beautiful lights
+
+28
+00:01:18,144 --> 00:01:20,343
+但总感觉缺少了什么
+but something is missing.
+
+29
+00:01:20,343 --> 00:01:21,685
+那究竟缺少了什么？
+What is missing?
+
+30
+00:01:21,685 --> 00:01:25,025
+当然 要有合理的阴影计算
+Of course, a proper computation of shadows.
+
+31
+00:01:25,025 --> 00:01:27,507
+那么 现在打开它
+And now, turn it on, yes
+
+32
+00:01:27,507 --> 00:01:30,768
+现在我们有了一个真正的阴暗市场
+we got a proper shady marketplace now.
+
+33
+00:01:30,768 --> 00:01:34,390
+我出生在共产主义的匈牙利 信不信？
+I can tell, I was born in communist Hungary, trust me.
+
+34
+00:01:34,390 --> 00:01:38,991
+现在重点是 各种闪烁的灯光和油灯随处可见
+Now, the point is that there are all kinds of flickering lights, oil lamps
+
+35
+00:01:38,991 --> 00:01:41,953
+可想而知 灯光真的是多得不可思议
+everything that you can imagine, So many lights
+
+36
+00:01:41,953 --> 00:01:45,416
+艺术家们不必再担心减少灯光
+because the artists don't have to worry about cutting lights
+
+37
+00:01:45,416 --> 00:01:47,217
+来保证游戏流畅
+to make the game run well.
+
+38
+00:01:47,217 --> 00:01:49,058
+就把所有东西都塞进去
+Just cram everything in there.
+
+39
+00:01:49,058 --> 00:01:51,120
+有点像期末考一样
+Kind of like a final exam.
+
+40
+00:01:51,120 --> 00:01:52,381
+好 我们可以开始了
+And there we go.
+
+41
+00:01:52,381 --> 00:01:54,903
+现在 学者们 把你们的纸拿稳
+Now, hold on to your papers, fellow scholars
+
+42
+00:01:54,903 --> 00:01:57,065
+看看有多少啊
+and look at how many there are.
+
+43
+00:01:57,065 --> 00:01:57,905
+哇 太神奇了！
+Wow.
+
+44
+00:01:57,905 --> 00:02:00,167
+超过一千个光源！
+Over 1000 light sources
+
+45
+00:02:00,167 --> 00:02:03,370
+每个光源都为场景投下独特的阴影
+each casting their own shadows onto the scene.
+
+46
+00:02:03,370 --> 00:02:05,912
+就像一场更酷炫的文艺派对
+It's like a rave, but nerdier.
+
+47
+00:02:05,912 --> 00:02:07,555
+彻底颠覆了游戏的规则！
+A complete game changer.
+
+48
+00:02:07,555 --> 00:02:08,895
+而且 这还不止于此
+But not only that
+
+49
+00:02:08,895 --> 00:02:12,498
+虚幻引擎还应用于电影、广播、
+Unreal is also used in the movie industry, broadcasting,
+
+50
+00:02:12,498 --> 00:02:14,760
+产品可视化等各个领域 真是无所不包！
+product visualization, you name it.
+
+51
+00:02:14,760 --> 00:02:17,043
+与他们的模拟引擎结合
+Pair it up with their simulation engine
+
+52
+00:02:17,043 --> 00:02:18,965
+简直完美！
+which is also chef's kiss
+
+53
+00:02:18,965 --> 00:02:21,227
+这就是一个精彩绝伦的组合！
+and you have an incredible package.
+
+54
+00:02:21,227 --> 00:02:23,508
+这些结果真是太惊艳了
+These results are so beautiful
+
+55
+00:02:23,508 --> 00:02:25,911
+我简直不敢相信 我的眼睛都要看呆了
+I thought my eyes are going to fall out.
+
+56
+00:02:25,911 --> 00:02:27,991
+但说真的 发生了什么事情啊？
+But seriously, what is happening?
+
+57
+00:02:27,991 --> 00:02:29,532
+差不多一年内
+In approximately a year
+
+58
+00:02:29,532 --> 00:02:33,834
+他们展示了Nanite 能让游戏拥有惊人的细节
+they showcased Nanite for insane level geometry for games
+
+59
+00:02:33,834 --> 00:02:38,937
+接着是Lumen 带来了真实的反射 这在一年内就出现了两个光影领域的圣杯
+and then Lumen for realistic reflections, two Holy Grails in one year
+
+60
+00:02:38,937 --> 00:02:41,617
+现在再加上Megalights 就变成三项了！
+and now with Megalights, make it three.
+
+61
+00:02:41,617 --> 00:02:45,739
+这些动态灯光竟然能够实时渲染 真是太疯狂了！
+It's crazy that these moving lights are rendered in real time.
+
+62
+00:02:45,739 --> 00:02:48,721
+而且对大多数人来说 这一切竟然都是免费的！
+And all this is free for most people.
+
+63
+00:02:48,721 --> 00:02:51,422
+而且我们还没结束 离完结还差得远呢！
+And we are not done yet, not even close.
+
+64
+00:02:51,422 --> 00:02:54,242
+我特别注意到的九件事
+Here are 9 things that really caught my eye.
+
+65
+00:02:54,242 --> 00:02:55,182
+1.
+1.
+
+66
+00:02:55,182 --> 00:02:59,705
+他们的动画引擎能让角色与几何形状完美结合
+Their animation engine adapts these characters to geometry so well
+
+67
+00:02:59,705 --> 00:03:02,848
+甚至可以用来制作跑酷模拟
+you can even make a parkour simulation with it
+
+68
+00:03:02,848 --> 00:03:04,209
+看看这些角色吧
+and look at them
+
+69
+00:03:04,209 --> 00:03:07,531
+你甚至无需为他们的保险担心
+you don't even need to pay their insurance premiums.
+
+70
+00:03:07,531 --> 00:03:11,573
+2. 变形制作如今更加简单快捷
+2. Making deformations are now so much easier and quicker.
+
+71
+00:03:11,573 --> 00:03:12,533
+3.
+3.
+
+72
+00:03:12,533 --> 00:03:17,776
+你不仅可以扭曲空间 还能扭曲时间 从而更好地编辑动画
+You can not only warp space, but time too for better editing of animations.
+
+73
+00:03:17,776 --> 00:03:22,180
+4. 角色自定义如今无与伦比
+4. Character customization is now second to none.
+
+74
+00:03:22,180 --> 00:03:28,825
+从加州沙滩风格到赛博朋克再到黄仁勋风格 各种选择应有尽有
+Where we go from California Beachbody to Cyberpunk to Jensen Huang apparel.
+
+75
+00:03:28,825 --> 00:03:30,967
+他们还细心处理了许多细节
+And they also took care of details
+
+76
+00:03:30,967 --> 00:03:33,889
+比如自动将裤子塞进靴子
+like tucking the pants into boots automatically.
+
+77
+00:03:33,889 --> 00:03:33,889
+5.
+5.
+
+78
+00:03:35,073 --> 00:03:37,175
+我听你说 卡罗利博士
+I hear you say, Dr. Károly
+
+79
+00:03:37,175 --> 00:03:40,878
+我的模拟效果在哪里？AI又在哪里？
+where are my simulations and where is the AI?
+
+80
+00:03:40,878 --> 00:03:43,181
+好 它就在这里
+Well, it is right here.
+
+81
+00:03:43,181 --> 00:03:46,104
+问吧 学者们 答案就在这里
+Ask and you shall receive, fellow scholars.
+
+82
+00:03:46,104 --> 00:03:51,590
+没错 这里的变形细致到每根肌肉
+Yup, here the deformations go down to the level of individual muscles.
+
+83
+00:03:51,590 --> 00:03:52,450
+太疯狂了！
+Insanity.
+
+84
+00:03:52,450 --> 00:03:53,395
+6.
+6.
+
+85
+00:03:53,395 --> 00:03:58,800
+现在车辆可以定制 不过别太狂哦！
+Vehicles can be customized now, but don't go too crazy or ouch.
+
+86
+00:03:58,800 --> 00:03:59,881
+7. 你还记得这个吗？
+7. Remember this?
+
+87
+00:03:59,881 --> 00:04:02,163
+这不仅仅是一个简单的展示
+This was not just a visualization,
+
+88
+00:04:02,163 --> 00:04:08,988
+而是新款宝马5系的数字副本 配有20,000个零件
+but a digital copy of the new BMW 5 Series with 20,000 parts.
+
+89
+00:04:08,988 --> 00:04:12,790
+我本该说你甚至可以把它打开 可你看看！
+I would say you can even pop it open, but look!
+
+90
+00:04:12,790 --> 00:04:15,092
+这真是世纪的低调表述
+Understatement of the century.
+
+91
+00:04:15,092 --> 00:04:17,874
+连擎天柱都会感到惊艳
+Even Optimus Prime would be impressed.
+
+92
+00:04:17,874 --> 00:04:19,055
+哇 真是惊人！
+Wow. 8.
+
+93
+00:04:19,055 --> 00:04:23,235
+更好的动作捕捉支持 让角色的动作更加真实
+Better motion capture support for more realistic character motion.
+
+94
+00:04:23,235 --> 00:04:23,396
+还有第9个功能
+And 9.
+
+95
+00:04:24,416 --> 00:04:26,517
+这是我最喜欢的功能之一
+This is one of my favorites.
+
+96
+00:04:26,517 --> 00:04:29,999
+通常 创造一个庞大的游戏虚拟世界时
+Normally, when you create a vast virtual world for games
+
+97
+00:04:29,999 --> 00:04:33,839
+一般来说 没有一台服务器能独立应付 但现在
+often no one server can deal with it alone, but now
+
+98
+00:04:33,839 --> 00:04:37,002
+可以将其分配到多个游戏服务器上
+you split them up between multiple game servers
+
+99
+00:04:37,002 --> 00:04:40,543
+玩家从一个区域切换到另一个区域时
+and when the players transition from one region to another
+
+100
+00:04:40,543 --> 00:04:41,863
+这一切都非常无缝
+it is so seamless
+
+101
+00:04:41,863 --> 00:04:43,964
+他们甚至没有察觉到其中的奥妙
+they don't even notice the trick.
+
+102
+00:04:43,964 --> 00:04:45,285
+试想一下
+Just think about that.
+
+103
+00:04:45,285 --> 00:04:50,028
+哎呀 我得开始省点咖啡钱来买它了
+Goodness, so I better start cutting down on the coffee budget to buy it.
+
+104
+00:04:50,028 --> 00:04:52,089
+我可是说的不是BMW哦
+I mean, not the BMW
+
+105
+00:04:52,089 --> 00:04:54,692
+而是能顺利运行这个的新的电脑
+but a new PC that can run this.
+
+106
+00:04:54,692 --> 00:04:57,654
+星巴克 真是消耗PC预算的罪魁祸首
+Starbucks, the destroyer of PC budgets.
+
+107
+00:04:57,654 --> 00:04:58,514
+走开吧
+Be gone.
+
+108
+00:04:58,514 --> 00:04:59,134
+或者说不了
+Or not.
+
+109
+00:04:59,134 --> 00:04:59,754
+我也不知道啊
+I don't know.
+
+110
+00:04:59,754 --> 00:05:01,456
+我可不是美国人
+I am not from America.
+
+111
+00:05:01,456 --> 00:05:03,418
+那么如果还是不够
+And if we still don't have enough
+
+112
+00:05:03,418 --> 00:05:07,860
+至少我可以在这儿用租来的便宜Lambda GPU做一个
+at least I can make one here with a cheap, rented Lambda GPU
+
+113
+00:05:07,860 --> 00:05:09,502
+通过Text2Image
+through Text2Image.
+
+114
+00:05:09,502 --> 00:05:11,103
+哈 赢了！
+Ha, checkmate.
+
+115
+00:05:11,103 --> 00:05:13,125
+现在 你看 哇
+And now, look, Ooh
+
+116
+00:05:13,125 --> 00:05:15,125
+你还没见过真正的东西呢
+you haven't seen anything yet.
+
+117
+00:05:15,125 --> 00:05:18,689
+他们居然还有一份公开的路线图 真是不可思议！
+They also have a public roadmap, which is, wow
+
+118
+00:05:18,689 --> 00:05:22,552
+此时此刻 正在酝酿着许多新事物
+an insane amount of things are brewing right as we speak.
+
+119
+00:05:22,552 --> 00:05:23,692
+你看看这！
+Just look at that.
+
+120
+00:05:23,692 --> 00:05:25,555
+天哪 纸堆成山！
+Holy mother of papers.
+
+121
+00:05:25,555 --> 00:05:29,017
+我最喜欢的三项功能是学习代理
+Three of my favorites coming up are learning agents,
+
+122
+00:05:29,017 --> 00:05:31,740
+超赞的效果 以及更好的昼夜变化
+yummy, better day and night sequences,
+
+123
+00:05:31,740 --> 00:05:33,360
+还有这一项
+and then this.
+
+124
+00:05:33,360 --> 00:05:34,360
+哎呀！
+Oh my.
+
+125
+00:05:34,360 --> 00:05:38,622
+再说一次 大部分功能对我们这些同道是免费的
+And once again, all this is free for most of us Fellow Scholars.
+
+126
+00:05:38,622 --> 00:05:40,642
+这一刻真是太美好了！
+What a time to be alive!
+
+127
+00:05:40,642 --> 00:05:42,483
+如果你受到启发
+And if you feel inspired
+
+128
+00:05:42,483 --> 00:05:48,605
+如果你想在NVIDIA GPU上尝试一些实验 推荐你使用Lambda
+and you wish to run your own experiments on NVIDIA GPUs, check out Lambda.
+
+129
+00:05:48,605 --> 00:05:52,726
+Lambda是一个专为大型人工智能项目设计的云服务
+Lambda is a cloud service for large-scale AI projects
+
+130
+00:05:52,726 --> 00:05:55,723
+这真的是我最喜欢的服务
+and it is my absolute favorite.
+
+131
+00:05:55,723 --> 00:06:00,327
+真的 马上去lambdalabs.com/papers试一下吧！
+Seriously, try it out now at lambdalabs.com slash papers
+
+132
+00:06:00,327 --> 00:06:02,531
+或者直接点击下方的链接
+or click the link in the description.
+
+133
+00:06:02,531 --> 00:06:03,711
+如果你选择使用Lambda
+If you use Lambda
+
+134
+00:06:03,711 --> 00:06:07,696
+你可以在强大的硬件上进行实验
+you can run your own experiments on super powerful hardware
+
+135
+00:06:07,696 --> 00:06:10,158
+同时你还支持了Two Minute Papers
+and you also support Two Minute Papers.
