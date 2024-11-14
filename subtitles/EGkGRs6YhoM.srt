@@ -1,0 +1,2799 @@
+1
+00:00:00,495 --> 00:00:02,916
+我真的很喜欢这些新的Pixel手机
+So I really like these new Pixel phones.
+
+2
+00:00:02,916 --> 00:00:07,617
+今年的新设计显而易见 还有新的规格和功能
+New designs this year, obviously, but also new specs, new features,
+
+3
+00:00:07,617 --> 00:00:11,579
+还有一些新问题 当然 还有新的价格
+also new issues, but of course, new price tags.
+
+4
+00:00:11,579 --> 00:00:13,979
+我们真的要深入挖掘一下这些手机
+So we really got to jump into the nitty gritty
+
+5
+00:00:13,979 --> 00:00:16,340
+的实际优点
+of what's actually good about them.
+
+6
+00:00:44,648 --> 00:00:49,571
+所以 我们期待真正强大的旗舰手机
+So we've been hoping for a real complete flagship quality competitor
+
+7
+00:00:49,571 --> 00:00:50,332
+来自谷歌
+from Google
+
+8
+00:00:50,332 --> 00:00:51,893
+已经有一段时间了
+for a while now.
+
+9
+00:00:51,893 --> 00:00:53,053
+一方面
+And on one hand
+
+10
+00:00:53,053 --> 00:00:54,214
+感觉我们终于迎来了这些手机
+it feels like we finally got them.
+
+11
+00:00:54,214 --> 00:00:55,735
+但另一方面
+But on the other hand
+
+12
+00:00:55,735 --> 00:00:59,117
+你们有没有看过谷歌发布这些手机的活动？
+did you guys watch the Google event announcing these things?
+
+13
+00:00:59,117 --> 00:01:02,219
+通过发布会能看出公司对产品的真实看法
+I feel like you can learn a lot about how a company really feels
+
+14
+00:01:02,219 --> 00:01:04,581
+关于他们正在展示的产品内容
+about the products that they're presenting
+
+15
+00:01:04,581 --> 00:01:07,563
+通过观看发布活动内容
+by just watching the announcement event.
+
+16
+00:01:07,563 --> 00:01:11,685
+而这些更像是软件展示
+And these felt like a software showcase
+
+17
+00:01:11,685 --> 00:01:15,031
+只是顺便有了几款手机
+that just also happened to have some phones to go with it
+
+18
+00:01:15,031 --> 00:01:16,093
+我想这也算不上什么奇怪的事
+which I guess is not insane
+
+19
+00:01:16,093 --> 00:01:18,233
+考虑到Nexus和Pixel的历史
+when you know the history of Nexus and Pixel
+
+20
+00:01:18,233 --> 00:01:21,477
+这让我对这些手机产生了反感
+but it did the opposite of give me confidence in these phones.
+
+21
+00:01:21,477 --> 00:01:24,078
+不过现在我已经连续用这些手机两周了
+But now I've been using these phones for two weeks straight
+
+22
+00:01:24,078 --> 00:01:27,662
+我觉得我能告诉你这些手机的优缺点
+and I actually feel like I can tell you what's good or bad about them.
+
+23
+00:01:31,108 --> 00:01:32,870
+所以我主要想说的是硬件
+So hardware is mostly what I'm talking about
+
+24
+00:01:32,870 --> 00:01:36,632
+我觉得这些手机确实像旗舰机 给人好印象
+when I say these phones feel like flagships in a good way.
+
+25
+00:01:36,632 --> 00:01:39,754
+容易把它们看成和去年一样
+Like it would be easy to dismiss them as almost the same as last year,
+
+26
+00:01:39,754 --> 00:01:40,855
+只是变得方了一点
+just squared up.
+
+27
+00:01:40,855 --> 00:01:43,238
+但还有很多其他的小事情
+But there are a lot of other little things too.
+
+28
+00:01:43,238 --> 00:01:46,319
+比如屏幕最大亮度更亮
+Like the screens are brighter at their max brightness,
+
+29
+00:01:46,319 --> 00:01:47,821
+Pixel 9达到2700尼特
+2700 nits for the Pixel 9
+
+30
+00:01:47,821 --> 00:01:49,723
+而9 Pro的亮度则是3000尼特
+and 3000 nits for the 9 Pros.
+
+31
+00:01:49,723 --> 00:01:51,584
+还有四周的边框也很均匀
+And then the even bezels all the way around.
+
+32
+00:01:51,584 --> 00:01:53,406
+这需要更多的思考
+That requires some extra consideration,
+
+33
+00:01:53,406 --> 00:01:55,227
+让OLED面板的边缘包裹
+wrapping the edges of the OLED panels
+
+34
+00:01:55,227 --> 00:01:56,647
+在角落处
+under those corners.
+
+35
+00:01:56,647 --> 00:02:01,331
+所有机型上都有新的超声波指纹识别器
+And there's a new ultrasonic fingerprint reader under here on all of them.
+
+36
+00:02:01,331 --> 00:02:03,311
+最后 它的速度大幅提升
+Finally, it's way faster
+
+37
+00:02:03,311 --> 00:02:06,433
+和可靠性都远超之前差劲的光学识别器
+and more reliable than the disappointing optical ones from before
+
+38
+00:02:06,433 --> 00:02:08,954
+我唯一想要的不过是这件小事
+the only thing I wish it's such a small thing
+
+39
+00:02:08,954 --> 00:02:11,574
+我希望能随时解锁
+But I wish I could just unlock at any time
+
+40
+00:02:11,574 --> 00:02:14,876
+现在显示屏完全关闭时 你必须保持
+when the display is completely off like currently you have to have the
+
+41
+00:02:14,876 --> 00:02:16,256
+始终显示状态
+always-on display on
+
+42
+00:02:16,256 --> 00:02:19,217
+要么按电源按钮 要么收到通知
+or Hit the power button or be getting a notification
+
+43
+00:02:19,217 --> 00:02:23,103
+你只需轻按即可解锁 就像三星手机那样
+and then you can unlock with a quick touch but Like on Samsung phones
+
+44
+00:02:23,103 --> 00:02:26,503
+显示屏上的那个点始终是热点
+that spot on the display is always a hotspot no matter what.
+
+45
+00:02:26,503 --> 00:02:28,185
+你只需触摸那里解锁
+You can just unlock by touching there.
+
+46
+00:02:28,185 --> 00:02:31,265
+我希望Pixel在黑屏时也能如此
+So I kind of wish the Pixel would let me do that from a blank screen too.
+
+47
+00:02:31,265 --> 00:02:32,765
+触觉反馈非常出色
+The haptics are really nice again
+
+48
+00:02:32,765 --> 00:02:34,786
+而且今年按钮的手感很棒
+and the buttons are really clicky this year.
+
+49
+00:02:36,787 --> 00:02:39,807
+当然 硬件的表现也是非常重要的
+But then of course the hardware is what's on the inside too.
+
+50
+00:02:39,807 --> 00:02:42,228
+这就是全新的Tensor G4芯片
+So that is the new Tensor G4 chip
+
+51
+00:02:42,228 --> 00:02:44,972
+还有不少额外的内存
+and a bunch of extra RAM.
+
+52
+00:02:44,972 --> 00:02:47,776
+其实 Tensor G4 的性能并没有比
+Now, the Tensor G4 isn't actually that much more powerful
+
+53
+00:02:47,776 --> 00:02:49,217
+去年的芯片强多少
+than last year's chip.
+
+54
+00:02:49,217 --> 00:02:50,840
+其实 你几乎不会察觉到有什么不同
+In fact, you probably won't notice a difference
+
+55
+00:02:50,840 --> 00:02:54,245
+对于你在手机上进行的99%的操作来说
+for 99% of the stuff you do on the phone.
+
+56
+00:02:54,245 --> 00:02:59,031
+不过 真正重要的是一个全新的NPU 它更强大
+But what's actually significant is a new NPU that's way more powerful
+
+57
+00:02:59,031 --> 00:03:01,829
+专注于AI任务
+and dedicated to AI tasks.
+
+58
+00:03:01,829 --> 00:03:06,270
+而且更多的RAM同样专门用于AI任务
+And the way more RAM is also dedicated to AI tasks.
+
+59
+00:03:06,270 --> 00:03:09,693
+我听说大部分RAM实际上是专门预留给AI相关的任务
+I'm told a big portion of the RAM is literally reserved for AI stuff.
+
+60
+00:03:09,693 --> 00:03:12,533
+我很快会讲到这些AI的内容 请放心
+So I will get to all that AI stuff in a minute, don't worry.
+
+61
+00:03:12,533 --> 00:03:14,735
+不过 考虑到我们所处的时代
+But just in the world that we're living in,
+
+62
+00:03:14,735 --> 00:03:18,037
+很多主要新智能手机的市场动态在这里
+where the meta for a lot of these major new smartphones is,
+
+63
+00:03:18,037 --> 00:03:20,657
+嗯 有一些微小的改进
+okay, minor new improvements here and there,
+
+64
+00:03:20,657 --> 00:03:22,619
+但主要还是加入了不少新的人工智能功能
+but mainly just a bunch of new AI features
+
+65
+00:03:22,619 --> 00:03:23,991
+以及各种新功能
+and capabilities.
+
+66
+00:03:23,991 --> 00:03:29,116
+我很高兴Pixel的硬件设计也
+I'm glad that the Pixel also got a bunch of meaningful feeling
+
+67
+00:03:29,116 --> 00:03:30,257
+很有深意
+hardware stuff too.
+
+68
+00:03:30,257 --> 00:03:31,078
+显然 没错
+And then obviously, yes
+
+69
+00:03:31,078 --> 00:03:34,382
+这个手机的边框确实是方方正正的
+you do have the squared off sides that I just know
+
+70
+00:03:34,382 --> 00:03:37,925
+这正好和世界上的iPhone、三星等手机相匹配
+are supposed to fit in with the iPhones and Samsungs of the world.
+
+71
+00:03:37,925 --> 00:03:38,545
+我之前提到过
+I've said it before
+
+72
+00:03:38,545 --> 00:03:40,307
+我喜欢它的造型和触感
+I like the look and feel.
+
+73
+00:03:40,307 --> 00:03:42,750
+这同样适用于这个新的相机罩
+And that also applies to this new camera visor
+
+74
+00:03:42,750 --> 00:03:44,512
+这看起来不太像面罩 反而更像个架子
+which is less of a visor
+
+75
+00:03:44,512 --> 00:03:46,787
+我想它更像一个架子 再加上面罩的功能
+and I guess more of like a shelf visor.
+
+76
+00:03:46,787 --> 00:03:50,127
+在一些渲染中 岛的样子看起来有点奇怪
+Island now kind of looks a bit weird in some renders
+
+77
+00:03:50,127 --> 00:03:53,008
+不过你得相信我 亲自看过的人都会觉得不错
+but you just kind of have to trust me seeing it in person
+
+78
+00:03:53,008 --> 00:03:53,809
+这个真是太棒了！
+It's fire.
+
+79
+00:03:53,809 --> 00:03:55,068
+我很喜欢 尽管它可能会
+I like it Even if it will
+
+80
+00:03:55,068 --> 00:03:58,889
+如果和去年一样 它肯定会在角落里积满灰尘
+totally collect dust in just the same way as last year in the corners.
+
+81
+00:03:58,889 --> 00:03:59,430
+这个真的不错
+It's nice
+
+82
+00:03:59,430 --> 00:04:03,431
+现在有个新尺寸 适合想要专业手机的
+Oh, and I almost forgot there is a new size so you can have a pro phone
+
+83
+00:04:03,431 --> 00:04:07,312
+而且它不是XL 我非常喜欢这个选择！
+but without it being an XL Love the choice.
+
+84
+00:04:07,312 --> 00:04:08,032
+我有点儿担心
+I am a little worried
+
+85
+00:04:08,032 --> 00:04:12,395
+那个可能不如两个极端的型号卖得好
+that that one is probably won't sell as well as the two extremes
+
+86
+00:04:12,395 --> 00:04:13,377
+不过我只是想说
+but I'm just
+
+87
+00:04:13,377 --> 00:04:14,717
+我很高兴今年我们有更多选择
+I'm glad we have the choice this year.
+
+88
+00:04:14,717 --> 00:04:17,360
+趁它还在的时候要好好珍惜
+Be happy about it before it gets discontinued.
+
+89
+00:04:17,360 --> 00:04:19,482
+总的来说 这听起来不错
+So anyway, it all sounds pretty good
+
+90
+00:04:19,482 --> 00:04:21,742
+不过我还是有些不满
+but I do have a few gripes
+
+91
+00:04:21,742 --> 00:04:22,843
+我觉得这是合情合理的
+which I'm allowed to
+
+92
+00:04:22,843 --> 00:04:23,985
+它的价格是1000美元
+it's $1,000.
+
+93
+00:04:23,985 --> 00:04:27,648
+所以电池的大小和去年差不多
+So the size of the batteries is about the same as last year,
+
+94
+00:04:27,648 --> 00:04:30,870
+小型号的电池容量大约是4700毫安时
+4,700 milliamp hours in the smaller size ones,
+
+95
+00:04:30,870 --> 00:04:32,052
+大手机的电池容量大约是5000毫安时
+5,000 milliamp hours in the big phone.
+
+96
+00:04:33,233 --> 00:04:34,533
+我在使用XL时 电池续航一直表现不错
+I've had pretty good battery life
+
+97
+00:04:34,533 --> 00:04:38,077
+与XL一起使用的电池续航表现较差
+like a minus battery life with the XL consistently
+
+98
+00:04:38,077 --> 00:04:42,279
+屏幕亮度高的情况下 使用时间超过五小时
+five plus hours of screen on time lots of heavy high brightness use
+
+99
+00:04:42,279 --> 00:04:45,221
+不过 它们充电速度仍然不快
+but they still don't charge that fast
+
+100
+00:04:45,221 --> 00:04:49,446
+XL的最大充电功率大约是37瓦特
+like the XL is maxing out at like 37 watts.
+
+101
+00:04:49,446 --> 00:04:51,846
+而且在小型号的手机上 充电速度实际上更慢
+And it's actually slightly slower on the smaller phones.
+
+102
+00:04:51,846 --> 00:04:55,189
+我不是说你必须使用那种‘真我320瓦特’的极快充电
+Now I'm not saying you gotta go thermonuclear level
+
+103
+00:04:55,189 --> 00:04:58,271
+真我320瓦特极快充电
+real me 320 watt fast charging
+
+104
+00:04:58,271 --> 00:05:00,833
+充电速度快得让人惊讶
+light your phone on fire charging speeds or anything like that.
+
+105
+00:05:00,833 --> 00:05:03,874
+我只是想说 快速充电还是挺不错的
+I'm just saying fast charging would be nice.
+
+106
+00:05:03,874 --> 00:05:06,696
+就50到60瓦 这样就好了
+50, 60 watts, that's it.
+
+107
+00:05:06,696 --> 00:05:08,877
+我觉得这也没什么特别的
+I feel like that's just not that insane
+
+108
+00:05:08,877 --> 00:05:11,538
+但是在使用手机方面会好很多
+but would be significantly better for using the phone.
+
+109
+00:05:11,538 --> 00:05:15,600
+我还得提一下 Pixel 9的边框是哑光的 背面是光滑的
+Now, I also need to say Pixel 9 has matte sides with glossy back
+
+110
+00:05:15,600 --> 00:05:19,682
+而Pixel 9 Pro的边框是光滑的 背面是哑光的
+but the Pixel 9 Pro has glossy sides with the matte back.
+
+111
+00:05:19,682 --> 00:05:21,221
+这种设计我们以前见过
+We've seen the strategy before.
+
+112
+00:05:21,221 --> 00:05:22,663
+我觉得哑光的边框外观更好看
+I just think the matte sides look
+
+113
+00:05:22,663 --> 00:05:24,682
+而且手感也比光滑的要好得多
+and feel so much better than the glossy
+
+114
+00:05:24,682 --> 00:05:27,865
+我有点希望能有哑光效果的手机外观
+so I kind of wish you could get like a matte on matte look
+
+115
+00:05:27,865 --> 00:05:29,125
+不过这只是我个人的看法
+but that's just me.
+
+116
+00:05:29,125 --> 00:05:30,185
+还有一件事
+And then one more thing, of course
+
+117
+00:05:30,185 --> 00:05:31,706
+这些手机的起售价很高
+these phones start at higher prices
+
+118
+00:05:31,706 --> 00:05:33,666
+或者基础版的起售价是799美元
+or at least the base one starts at $799
+
+119
+00:05:33,666 --> 00:05:35,607
+不过这款手机要1000美元 128GB的存储起步
+but this is a $1,000 phone that starts at 128 gigs of storage.
+
+120
+00:05:39,630 --> 00:05:40,452
+谢谢你 苹果
+Thanks, Apple.
+
+121
+00:05:40,452 --> 00:05:41,872
+我想这也是现在的趋势了
+I guess that's the standard now too
+
+122
+00:05:41,872 --> 00:05:42,812
+但是现在是2024年
+but it's 2024.
+
+123
+00:05:42,812 --> 00:05:45,434
+我希望起步存储能是256GB
+I would have liked, you know, 256 to start.
+
+124
+00:05:48,615 --> 00:05:53,158
+相机一直是谷歌手机体验中不可或缺的一部分
+So cameras have always been a big part of the Google phone experience
+
+125
+00:05:53,158 --> 00:05:54,759
+至少最近一段时间是这样
+or at least they have for a while now.
+
+126
+00:05:54,759 --> 00:05:55,860
+而在Pixel 9系列中
+And on Pixel 9s
+
+127
+00:05:55,860 --> 00:05:59,401
+这个依然成立 但情况有所不同
+that's still true, but not in exactly the same way.
+
+128
+00:05:59,401 --> 00:06:00,802
+总体而言
+So all across the board
+
+129
+00:06:00,802 --> 00:06:04,504
+Pixel 9和9 Pro的主摄像头是相同的
+the Pixel 9 and 9 Pro actually share the same primary camera
+
+130
+00:06:04,504 --> 00:06:06,146
+超广角镜头也是相同的
+and the same ultra-wide.
+
+131
+00:06:06,146 --> 00:06:10,048
+Pro版则多了一个5倍变焦的长焦镜头
+The Pros just get that extra telephoto, the 5x zoom
+
+132
+00:06:10,048 --> 00:06:11,908
+所有机型共享的主摄像头
+And the primary camera that they all share
+
+133
+00:06:11,908 --> 00:06:14,050
+基本和去年一样
+is basically the same as last year.
+
+134
+00:06:14,050 --> 00:06:15,069
+超广角镜头是全新设计
+The ultra wide is new.
+
+135
+00:06:15,069 --> 00:06:16,949
+现在是48百万像素 而不是以前的12百万
+It's 48 megapixels instead of 12
+
+136
+00:06:16,949 --> 00:06:18,211
+但最终分辨率降低到了12
+but it bends down to 12.
+
+137
+00:06:18,211 --> 00:06:21,750
+来看看用这些新相机拍摄的效果吧
+So look shooting with these new cameras.
+
+138
+00:06:21,750 --> 00:06:22,370
+效果非常不错！
+It's great.
+
+139
+00:06:22,370 --> 00:06:24,351
+这是一款非常快速的手机相机应用
+It's a quick smartphone camera app.
+
+140
+00:06:24,351 --> 00:06:26,331
+有许多简单易用的模式
+There's a bunch of easy to use modes.
+
+141
+00:06:26,331 --> 00:06:27,613
+反应非常灵敏
+It's responsive.
+
+142
+00:06:27,613 --> 00:06:28,793
+对焦速度很快
+Focus is quick.
+
+143
+00:06:28,793 --> 00:06:30,132
+使用起来非常简单 表现也很稳定
+It's easy, a consistent
+
+144
+00:06:30,132 --> 00:06:32,653
+能够快速处理出清晰的好照片
+good pictures that process pretty quickly.
+
+145
+00:06:32,653 --> 00:06:35,564
+我对这些照片最深刻的印象是
+What I mostly notice about these photos.
+
+146
+00:06:35,564 --> 00:06:38,007
+在我看来 它们看起来仍然处理得很夸张
+is they still look very processed to me.
+
+147
+00:06:38,007 --> 00:06:41,850
+这就是目前几代 Pixel 手机的风格
+Like this is the pixel look now these days with the last few generations.
+
+148
+00:06:41,850 --> 00:06:44,413
+这张照片有丰富的 HDR、高对比度
+Just lots of HDR, lots of contrast,
+
+149
+00:06:44,413 --> 00:06:47,875
+和动态范围 同时也经过了较强的锐化处理
+lots of dynamic range, also lots of sharpening.
+
+150
+00:06:47,875 --> 00:06:51,238
+这种效果没有我们在其他设备上看到的自然
+It's just not as natural of a look as we've seen in some others.
+
+151
+00:06:51,238 --> 00:06:53,101
+这效果显得更加鲜明
+It's just more on the punchy side
+
+152
+00:06:53,101 --> 00:06:55,843
+这对于在社交媒体上分享照片很好
+which is honestly great for just sharing a photo on social media
+
+153
+00:06:55,843 --> 00:06:58,769
+但有些人可能更喜欢中性风格的照片
+but some may prefer a more neutral photo.
+
+154
+00:06:58,769 --> 00:07:01,350
+Pro的新自拍相机在细节上
+The new selfie camera on the Pro actually feels like
+
+155
+00:07:01,350 --> 00:07:02,271
+真的是最大的提升
+the biggest improvement
+
+156
+00:07:02,271 --> 00:07:03,290
+在细节上
+as far as detail
+
+157
+00:07:03,290 --> 00:07:05,673
+与普通Pixel 9相比 色彩更加丰富
+and color over the regular Pixel 9
+
+158
+00:07:05,673 --> 00:07:06,952
+但它没有这一点
+which doesn't get this.
+
+159
+00:07:06,952 --> 00:07:09,714
+不过我认为这款自拍相机非常不错
+But I'd say this is a pretty nice selfie camera.
+
+160
+00:07:09,714 --> 00:07:12,355
+动态范围真是超广
+Just so much dynamic range.
+
+161
+00:07:12,355 --> 00:07:13,255
+如果你想了解的话
+But if you want to see
+
+162
+00:07:13,255 --> 00:07:15,877
+还可以听听Pixel拍摄的视频效果
+and hear what video footage from the Pixel sounds like
+
+163
+00:07:15,877 --> 00:07:20,759
+我在Pixel 9 Pro XL的自动对焦频道上录制了一整段视频
+I shot an entire video on the autofocus channel on the Pixel 9 Pro XL
+
+164
+00:07:20,759 --> 00:07:22,000
+在4K 30帧下
+in 4K 30
+
+165
+00:07:22,000 --> 00:07:23,922
+完全没有外接硬件
+with actually no external hardware.
+
+166
+00:07:23,922 --> 00:07:25,002
+我连麦克风都没插
+I didn't even plug in a mic.
+
+167
+00:07:25,002 --> 00:07:26,755
+这就是设备自带的麦克风效果
+This is just the built-in mics.
+
+168
+00:07:26,755 --> 00:07:28,341
+就我拿着手机
+so yeah just me holding a phone
+
+169
+00:07:28,341 --> 00:07:31,730
+不放大根本看不出问题
+if you don't zoom in at all the videos look great
+
+170
+00:07:31,730 --> 00:07:34,668
+清晰 但明显处理过头了
+they're sharp but obviously still very processed.
+
+171
+00:07:34,668 --> 00:07:38,269
+你能看出来 它在优先处理图像分割
+And you can see it like prioritizing segmentation
+
+172
+00:07:38,269 --> 00:07:40,971
+还有我脸上的灯光和颜色的变化
+and like lighting on my face and shifting colors around.
+
+173
+00:07:40,971 --> 00:07:41,952
+我会在下面放个链接
+So I'll leave a link below
+
+174
+00:07:41,952 --> 00:07:44,954
+如果你想看完整的eSprinter评测
+if you want to watch that whole eSprinter review when it goes live.
+
+175
+00:07:44,954 --> 00:07:46,055
+顺便去那边订阅
+And you might as well subscribe over there
+
+176
+00:07:46,055 --> 00:07:47,516
+其他汽车视频吧
+while you're at it for other car videos.
+
+177
+00:07:47,516 --> 00:07:50,216
+不过这都是Pixel体验的一部分
+But this is all part of the Pixel experience.
+
+178
+00:07:50,216 --> 00:07:52,478
+就像他们还在不断调试这些相机
+Just like they're still tuning these cameras.
+
+179
+00:07:52,478 --> 00:07:54,959
+将来它们可能会显得更自然一些
+They may end up looking a little more natural in the future
+
+180
+00:07:54,959 --> 00:07:56,620
+尽管已经过了一代人
+even though it's been a generation.
+
+181
+00:07:56,620 --> 00:08:00,002
+这就是从这款手机中可以体验到的一项功能
+Like that's one of the things that you can get out of this phone.
+
+182
+00:08:00,002 --> 00:08:01,865
+不过当他们展示这些东西时
+But also when they present these things
+
+183
+00:08:01,865 --> 00:08:07,598
+这全是关于功能、智能和那些疯狂的AI魔法编辑器
+it's all about the features, the smarts, the crazy AI magic editor
+
+184
+00:08:07,598 --> 00:08:10,220
+还有这些手机上的所有AI技术
+and all this AI stuff on these phones.
+
+185
+00:08:10,220 --> 00:08:12,521
+Pixel体验有很多值得期待的地方
+There's a lot to the Pixel experience.
+
+186
+00:08:17,144 --> 00:08:19,327
+所以说 谷歌是Android的开发者
+So, Google makes Android.
+
+187
+00:08:20,367 --> 00:08:22,670
+谷歌还自己制造Android手机
+Google makes their own Android phone.
+
+188
+00:08:23,690 --> 00:08:27,473
+所以 谷歌安卓手机应该是
+Therefore, the Google Android phone should be the vessel
+
+189
+00:08:27,473 --> 00:08:29,935
+展示安卓最新功能的最佳选择
+for showing off the latest and greatest
+
+190
+00:08:29,935 --> 00:08:31,884
+来自安卓 是吧？
+from Android, right?
+
+191
+00:08:31,884 --> 00:08:35,125
+我说的是 安卓15的预览在二月刚曝光
+I mean, Android 15 preview just got shown off in February.
+
+192
+00:08:35,125 --> 00:08:37,086
+将在年底发布
+It's coming out by the end of the year.
+
+193
+00:08:37,086 --> 00:08:39,706
+这些手机预装安卓14
+These phones launch with Android 14.
+
+194
+00:08:41,027 --> 00:08:42,067
+这可不是开玩笑
+That's not a joke.
+
+195
+00:08:42,067 --> 00:08:45,128
+所有这些Pixel 9都运行安卓的第二最新版本
+All these Pixel 9s are running the second latest version of Android
+
+196
+00:08:45,128 --> 00:08:46,107
+出厂时
+out the box.
+
+197
+00:08:46,107 --> 00:08:48,469
+显然 他们应该是优先获得安卓15的
+Obviously, they should be first in line for 15
+
+198
+00:08:48,469 --> 00:08:51,509
+然后是七年的软件更新承诺
+and then the seven years of promised software updates
+
+199
+00:08:51,509 --> 00:08:53,129
+但这真是太搞笑了
+but that's still hilarious.
+
+200
+00:08:53,129 --> 00:08:55,549
+每次我重新使用 Pixel
+But every time I go back to using a Pixel, you know
+
+201
+00:08:55,549 --> 00:08:59,691
+我想起了用其他手机时错过的功能
+I'm reminded of all this stuff that I miss when I use other phones,
+
+202
+00:08:59,691 --> 00:09:01,138
+比如通话筛选
+like call screening.
+
+203
+00:09:01,138 --> 00:09:01,758
+实在是太好了
+So good.
+
+204
+00:09:01,758 --> 00:09:04,961
+我知道三星的 Bixby 版本有点糟糕
+I mean, I know Samsung kind of has like a janky Bixby version of it
+
+205
+00:09:04,961 --> 00:09:06,160
+可效果比不上 Pixel
+but it doesn't work as well.
+
+206
+00:09:06,160 --> 00:09:07,381
+我尝试过
+I've tried.
+
+207
+00:09:07,381 --> 00:09:08,982
+还有一个现在播放的功能
+The now playing feature also
+
+208
+00:09:08,982 --> 00:09:10,443
+它会在你身边悄悄地告诉你
+that just kind of ambiently tells you
+
+209
+00:09:10,443 --> 00:09:11,965
+正在播放的歌曲
+what song is playing in the background
+
+210
+00:09:11,965 --> 00:09:13,206
+
+wherever you're at.
+
+211
+00:09:13,206 --> 00:09:14,326
+我超喜欢这个
+Love it.
+
+212
+00:09:14,326 --> 00:09:17,589
+而且现在他们又增加了很多新功能
+And now there's all this new stuff that they're adding
+
+213
+00:09:17,589 --> 00:09:21,711
+这可能会让人们对Pixel感兴趣
+that also may or may not hook people to the Pixel.
+
+214
+00:09:21,711 --> 00:09:23,312
+所以通话备注是一个新功能
+So call notes is a new one.
+
+215
+00:09:23,312 --> 00:09:24,253
+挺实用的
+Pretty useful.
+
+216
+00:09:24,253 --> 00:09:27,235
+对正在通话进行录音并总结
+Summarize the phone calls that you're on with a recording.
+
+217
+00:09:27,235 --> 00:09:30,250
+新的Pixel天气应用最初我以为不怎么样
+And the new Pixel weather app Originally
+
+218
+00:09:30,250 --> 00:09:34,374
+我原本没打算太看重它 但说实话
+I wasn't going to give that much of a chance to it, but honestly
+
+219
+00:09:34,374 --> 00:09:37,154
+它的表现与我用过的其他
+it's turned out to be just as good as basically any other
+
+220
+00:09:37,154 --> 00:09:38,336
+Android天气应用一样好
+Android weather app I've tried.
+
+221
+00:09:38,336 --> 00:09:40,976
+点击主页上的天气小部件即可使用
+So you can get to it by tapping the weather widget on the home screen
+
+222
+00:09:40,976 --> 00:09:42,918
+界面设计得很漂亮
+and it's got this really pretty UI
+
+223
+00:09:42,918 --> 00:09:44,879
+你可以在这里重新排列大图标
+where you can rearrange the big tiles
+
+224
+00:09:44,879 --> 00:09:47,980
+把你最关心的内容放在前面
+and put the ones you care most about closer to the top.
+
+225
+00:09:47,980 --> 00:09:50,803
+虽然它不允许你更改天气来源 但我想说
+It doesn't let you change your weather source, but I mean
+
+226
+00:09:50,803 --> 00:09:52,403
+我这算是为难
+I'm already nitpicking at a level
+
+227
+00:09:52,403 --> 00:09:55,485
+那些只在意细节的天气爱好者了
+that only weather nerds will really care about.
+
+228
+00:09:55,485 --> 00:09:59,736
+他们还加了新版全景界面和相机功能
+And they also threw in an updated panorama UI and the camera.
+
+229
+00:09:59,736 --> 00:10:01,677
+不过我不知道还有谁会在意这个
+And I don't know if anybody cares about this
+
+230
+00:10:01,677 --> 00:10:05,620
+但Pro版的温度传感器现在可以测量人体温度了
+but the temperature sensor in the Pros works on people now.
+
+231
+00:10:05,620 --> 00:10:07,360
+不知道你有没有注意到这一点
+I don't know if you caught that.
+
+232
+00:10:07,360 --> 00:10:09,701
+而且它现在能提供实时温度读数
+And it gives these live temperature readings now
+
+233
+00:10:09,701 --> 00:10:11,582
+在你环绕物体时
+as you move around an object
+
+234
+00:10:11,582 --> 00:10:13,583
+顺带说明 这些并不算医疗建议
+none of which is medical advice, by the way.
+
+235
+00:10:13,583 --> 00:10:16,184
+我真的是有点佩服谷歌的坚持
+I'm actually impressed by Google's commitment
+
+236
+00:10:16,184 --> 00:10:18,346
+对这个特别无用的应用
+to this particularly useless app.
+
+237
+00:10:18,346 --> 00:10:21,087
+毕竟 谷歌 我知道你们因取消项目而受到批评
+Like, Google, I know you get a lot of heat for killing things typically
+
+238
+00:10:21,087 --> 00:10:25,952
+但我觉得你们可以放弃这个温度计应用
+but I give you permission to stop working on the thermometer app, I think.
+
+239
+00:10:25,952 --> 00:10:26,633
+我觉得你们做到了
+I think you've done it.
+
+240
+00:10:26,633 --> 00:10:28,953
+不过 有一点我想再提一下
+But there's one thing that, again
+
+241
+00:10:28,953 --> 00:10:30,514
+如果你看了谷歌的活动
+if you watched Google's event
+
+242
+00:10:30,514 --> 00:10:33,355
+这正是让Pixel与其他
+that is really supposed to stand the pixel out from the rest
+
+243
+00:10:33,355 --> 00:10:35,015
+智能手机不同之处
+of the world of smartphones.
+
+244
+00:10:35,015 --> 00:10:39,157
+这正是双子星运作的地方
+And that is because this is where Gemini lives.
+
+245
+00:10:39,157 --> 00:10:43,759
+这与谷歌最新助手的整合非常深入
+This is this deep, deep integration with Google's newest assistant here.
+
+246
+00:10:43,759 --> 00:10:49,159
+这款手机的开机动画竟然是谷歌的图标
+Literally the boot up animation on this phone is the Google logo.
+
+247
+00:10:49,159 --> 00:10:52,740
+启动时 它会变成双子座的图标
+And then it turns into the Gemini logo before it starts up.
+
+248
+00:10:52,740 --> 00:10:55,066
+其实这些就是...
+Like these are basically...
+
+249
+00:10:55,066 --> 00:10:56,386
+就是双子座手机
+Gemini phones.
+
+250
+00:10:56,386 --> 00:10:58,087
+那么 让我们聊聊这个
+So let's talk about it.
+
+251
+00:11:02,090 --> 00:11:05,991
+我们先撇开谷歌这种让人困惑的品牌更名惯例不谈
+So ignoring the fact that Google has this horrible habit of rebranding
+
+252
+00:11:05,991 --> 00:11:09,114
+以及那种让人困惑的重新命名方式
+and renaming things in the most confusing way possible
+
+253
+00:11:09,114 --> 00:11:13,355
+显然 我们在这里应该聚焦于双子座
+it seems clear that Gemini is the thing we should be focusing on here.
+
+254
+00:11:13,355 --> 00:11:15,976
+这个小盒子肩负着很大的压力
+Like there's a lot of pressure on this little box
+
+255
+00:11:15,976 --> 00:11:18,178
+必须尽量做到实用
+to be as useful as possible.
+
+256
+00:11:18,178 --> 00:11:24,182
+而且它确实表现不错 我觉得双子助手很实用
+And it actually delivers like I have found Gemini to be very useful
+
+257
+00:11:24,182 --> 00:11:27,964
+而且最近几周它也在迅速改进
+and also rapidly improving over the past couple weeks
+
+258
+00:11:27,964 --> 00:11:29,945
+增加了不少新功能
+and gaining new capabilities
+
+259
+00:11:29,945 --> 00:11:32,566
+它仍然能够很好地进行对话 记得上下文
+and it's still it's very conversational remembers context
+
+260
+00:11:32,566 --> 00:11:36,307
+绝大多数情况下能正确回答问题 表现不错
+it gets questions correct most the time it's good
+
+261
+00:11:36,307 --> 00:11:38,869
+我显然需要更新一下助手的比较
+I clearly need to do an updated assistant battle
+
+262
+00:11:38,869 --> 00:11:42,909
+因为我上次比较的是谷歌助手 而不是双子
+because the last one I did was with Google Assistant not Gemini
+
+263
+00:11:42,909 --> 00:11:45,518
+但这真是奇怪
+but see that's the weird thing
+
+264
+00:11:45,518 --> 00:11:51,082
+谷歌居然向大家推出了这个全新的Gemini助手
+Google introduced this huge new Gemini assistant to everyone
+
+265
+00:11:51,082 --> 00:11:55,385
+而且谷歌助手在这些手机上仍然
+but also Google Assistant still exists
+
+266
+00:11:55,385 --> 00:11:58,509
+和Gemini助手同时存在
+alongside Gemini on these phones too.
+
+267
+00:11:58,509 --> 00:12:00,690
+就好像有两个不同的助手
+Like it's two different assistants.
+
+268
+00:12:01,730 --> 00:12:03,011
+其实 有一段时间
+Matter of fact, for a little while
+
+269
+00:12:03,011 --> 00:12:06,394
+谷歌助手实际上比Gemini更强
+Google Assistant was actually better than Gemini at a lot of things
+
+270
+00:12:06,394 --> 00:12:08,255
+普通人使用的功能
+for what regular people were doing with it
+
+271
+00:12:08,255 --> 00:12:11,198
+因为Gemini助手不能设定定时器
+because Gemini couldn't set timers
+
+272
+00:12:11,198 --> 00:12:13,159
+它不能提供去某个地方的路线
+it couldn't get directions to places
+
+273
+00:12:13,159 --> 00:12:15,586
+它也无法进行基本的家居控制
+it couldn't do basic home controls.
+
+274
+00:12:15,586 --> 00:12:17,907
+因此 谷歌助手将成为人们依赖的工具
+And so Google Assistant would be the thing
+
+275
+00:12:17,907 --> 00:12:18,986
+人们还是会依赖它
+that it would fall back on
+
+276
+00:12:18,986 --> 00:12:21,268
+而且人们也会持续使用
+and that people would continue to use.
+
+277
+00:12:21,268 --> 00:12:22,068
+这让人感到困惑
+It's confusing.
+
+278
+00:12:22,068 --> 00:12:23,969
+即使是现在的Pixel 9
+Even now on the Pixel 9
+
+279
+00:12:23,969 --> 00:12:25,470
+你只需长按电源按钮
+you can hold down the power button
+
+280
+00:12:25,470 --> 00:12:28,110
+或从角落向上滑动 打开Gemini
+or swipe up from the corner to get to Gemini.
+
+281
+00:12:28,110 --> 00:12:32,613
+但每部手机上都有的Pixel主屏幕小部件
+But the permanent Pixel home screen widget on everyone's phone
+
+282
+00:12:32,613 --> 00:12:34,572
+如果你点一下那个麦克风
+if you tap that microphone
+
+283
+00:12:34,572 --> 00:12:36,863
+那就是旧版的谷歌助手了
+that's the old Google Assistant.
+
+284
+00:12:36,863 --> 00:12:41,807
+如今 Gemini实际上可以设置计时器和闹钟
+But today, now, Gemini can actually set timers and alarms.
+
+285
+00:12:41,807 --> 00:12:44,909
+它能够听取背景音乐 告诉你正在播放的是什么歌曲
+And it can listen and tell you what song is playing in the background
+
+286
+00:12:44,909 --> 00:12:46,191
+但之前它是无法做到的
+when it couldn't before.
+
+287
+00:12:46,191 --> 00:12:50,715
+它可以进行智能家居控制 比如调节Nest恒温器的温度
+And it can do home controls like changing my Nest thermostat temperature
+
+288
+00:12:50,715 --> 00:12:52,596
+和开启智能灯
+and turning smart lights on.
+
+289
+00:12:52,596 --> 00:12:55,110
+但不知为何
+But for some weird reason
+
+290
+00:12:55,110 --> 00:12:58,173
+当它具备这些新能力时
+when it's doing all of these new capabilities
+
+291
+00:12:58,173 --> 00:13:02,197
+角落里显示个小Google助手标志
+it's showing me a little Google Assistant logo in the corner
+
+292
+00:13:02,197 --> 00:13:03,677
+仿佛在告诉我 ‘好的’
+as if to tell me like, okay
+
+293
+00:13:03,677 --> 00:13:06,120
+它能正常运作 还有新功能
+it works and we have this new capability
+
+294
+00:13:06,120 --> 00:13:10,003
+不过双子星是依赖旧版Google助手来完成这些功能的
+but Gemini is doing this through the old Google Assistant
+
+295
+00:13:10,003 --> 00:13:12,105
+那这有什么必要告诉我？
+which why even tell me that?
+
+296
+00:13:12,105 --> 00:13:13,505
+直接去做吧
+Just do the thing.
+
+297
+00:13:13,505 --> 00:13:16,307
+总之 在设置里也有这些功能
+So anyway, then also in the settings
+
+298
+00:13:16,307 --> 00:13:18,870
+你可以使用这些双子星扩展
+you'll be able to have these Gemini extensions
+
+299
+00:13:18,870 --> 00:13:20,148
+启用后
+which when you enable them
+
+300
+00:13:20,148 --> 00:13:23,711
+这将使双子星更深入了解你的生活 通过其他应用
+will let Gemini see more into your actual life, like through other apps
+
+301
+00:13:23,711 --> 00:13:27,053
+例如Google文档、Google云端硬盘和日历
+like Google Docs and Drive and your calendar.
+
+302
+00:13:27,053 --> 00:13:29,956
+对我而言 这才是最有用的地方
+And to me, that's really where it becomes the most useful.
+
+303
+00:13:29,956 --> 00:13:32,738
+我开始请求它帮我找邮件
+Like I start asking it to find emails for me
+
+304
+00:13:32,738 --> 00:13:36,041
+告诉我下一个日历事件的交通情况
+and tell me the traffic to my next calendar event and things like that.
+
+305
+00:13:36,041 --> 00:13:39,423
+这就像跟一个普通人在交流 特别实用
+That is just like talking to a normal person and it's super useful.
+
+306
+00:13:39,423 --> 00:13:44,908
+不过 Gemini Live 有时会让人感觉不太舒适
+But then Gemini Live gets into this slightly less comfortable sometimes,
+
+307
+00:13:44,908 --> 00:13:47,235
+但也时常非常有用
+but also sometimes very useful.
+
+308
+00:13:47,235 --> 00:13:49,216
+可以跟Gemini进行完全交谈
+fully conversational mode with Gemini.
+
+309
+00:13:49,216 --> 00:13:52,839
+所以你就这么打开它 它就会全屏了
+So you just open it like this and it's full screen.
+
+310
+00:13:52,839 --> 00:13:57,139
+好吧 我的工作室里有个黄蜂巢
+So, okay, I've got this wasp nest in my studio
+
+311
+00:13:57,139 --> 00:13:58,160
+我得把它处理掉
+and I need to get rid of it.
+
+312
+00:13:58,160 --> 00:13:58,601
+我该怎么做？
+What do I do?
+
+313
+00:14:01,883 --> 00:14:03,023
+黄蜂比较凶猛
+Wasps are pretty aggressive,
+
+314
+00:14:03,023 --> 00:14:05,663
+因此安全清除蜂巢是重中之重
+so getting rid of the nest safely is the priority.
+
+315
+00:14:05,663 --> 00:14:07,804
+你知道蜂巢里是哪种黄蜂吗？
+Do you know what kind of wasps are in the nest?
+
+316
+00:14:07,804 --> 00:14:10,746
+这样我就能找到帮你清除它的最好方法
+That will help me figure out the best way to help you remove it.
+
+317
+00:14:10,746 --> 00:14:11,466
+我完全没主意
+I have no idea
+
+318
+00:14:11,466 --> 00:14:13,768
+不过它们总是活跃得很
+but they're all really active all the time.
+
+319
+00:14:16,431 --> 00:14:17,591
+好吧 这说得通
+Okay, that makes sense.
+
+320
+00:14:17,591 --> 00:14:19,152
+首先 最好试着
+To start, it's best to try
+
+321
+00:14:19,152 --> 00:14:21,331
+弄清楚你遇到的是什么种类的黄蜂
+and figure out what kind of wasps you're dealing with.
+
+322
+00:14:21,331 --> 00:14:23,533
+它们是黄黑相间、腰身细长的吗？
+Are they yellow and black with a narrow waist?
+
+323
+00:14:23,533 --> 00:14:26,133
+如果是这样 那它们可能是黄蜂
+If so, they're probably yellow jackets.
+
+324
+00:14:26,133 --> 00:14:27,594
+还是它们更像棕色的？
+Or are they more brown
+
+325
+00:14:27,594 --> 00:14:29,073
+还是灰色的 腰部更宽一些？
+or gray with a wider waist?
+
+326
+00:14:29,073 --> 00:14:30,094
+那它们是纸巢蜂
+Those would be paper wasps.
+
+327
+00:14:30,094 --> 00:14:30,495
+你知道吗？
+You know what?
+
+328
+00:14:30,495 --> 00:14:31,735
+我可不想跟它们靠这么近
+I don't want to get that close to them.
+
+329
+00:14:31,735 --> 00:14:34,014
+我还是去找附近的灭虫服务吧？
+How about I just find pest control nearby?
+
+330
+00:14:34,014 --> 00:14:34,495
+你能帮我搞定吗？
+Can you do that?
+
+331
+00:14:36,416 --> 00:14:36,916
+好的 那就这样
+Okay.
+
+332
+00:14:36,916 --> 00:14:40,726
+所以这一切都得看你的网络好不好了
+So this is all at the mercy of your internet connection.
+
+333
+00:14:40,726 --> 00:14:44,447
+而且不能出错 保持信息完整
+and it not hallucinating and getting everything right.
+
+334
+00:14:44,447 --> 00:14:46,447
+不过一旦它实现
+But when it does, it's actually
+
+335
+00:14:46,447 --> 00:14:47,206
+那确实会非常有用
+it can be super useful
+
+336
+00:14:47,206 --> 00:14:48,327
+特别是当你有很多
+especially when you have like a bunch of
+
+337
+00:14:48,327 --> 00:14:50,207
+后续问题时
+follow-up questions about something
+
+338
+00:14:50,207 --> 00:14:51,827
+你就会想继续深入
+and you want to just keep going
+
+339
+00:14:51,827 --> 00:14:55,009
+这样就不需要在谷歌上打字 只需直接说话即可
+then it's less of a bunch of typing Google and just talking to it.
+
+340
+00:14:55,009 --> 00:14:55,908
+没问题
+It's fine.
+
+341
+00:14:55,908 --> 00:14:59,789
+所以我觉得 Gemini现在真的做得不错
+So I do think Gemini is actually really good at this point.
+
+342
+00:14:59,789 --> 00:15:05,971
+当然 我打算与新Siri进行比较
+I will plan on doing a comparison to the new Siri, of course
+
+343
+00:15:05,971 --> 00:15:08,091
+也会对比ChatGPT和其他一些助手
+probably ChatGPT and probably some others
+
+344
+00:15:08,091 --> 00:15:11,142
+欢迎大家订阅！
+in some Updated assistant battle feel free to get subscribed
+
+345
+00:15:11,142 --> 00:15:14,245
+如果你想等它发布 那就得等等了
+if you want to see that when it comes out, but as of right now
+
+346
+00:15:14,245 --> 00:15:19,130
+是的 我很喜欢Gemini助手的功能
+Yeah, I'm I'm a fan of what assistant assistant of what Gemini is doing
+
+347
+00:15:19,130 --> 00:15:25,921
+但实际上 使用Gemini你可以在任何安卓手机上完成这些功能
+but the thing is you can do any of this with Gemini on any android phone
+
+348
+00:15:25,921 --> 00:15:30,403
+实际上 谷歌用Galaxy S24 Ultra演示了Gemini
+matter of fact google literally demoed gemini with the galaxy s24 ultra
+
+349
+00:15:30,403 --> 00:15:31,864
+在自己的活动中
+at their own event
+
+350
+00:15:31,864 --> 00:15:33,604
+就连他们都没打算掩饰这一点
+like they didn't even try to hide it
+
+351
+00:15:33,604 --> 00:15:35,225
+那么如果这并不是Pixel独有的
+so if that's not unique to pixel
+
+352
+00:15:35,225 --> 00:15:36,625
+那么如果这就是Gemini手机
+and it's basically the gemini phone
+
+353
+00:15:36,625 --> 00:15:39,566
+那新NPU的强大又有什么意义呢
+like what's the point of all this new npu power
+
+354
+00:15:39,566 --> 00:15:41,167
+搭配Tensor G4
+with the tensor g4
+
+355
+00:15:41,167 --> 00:15:46,048
+这些额外用于人工智能的内存究竟有什么用呢？
+and all this extra ram dedicated to ai tasks what exactly is that good for
+
+356
+00:15:47,068 --> 00:15:50,210
+其实还有不少其他的人工智能任务
+well there are a bunch of other ai tasks
+
+357
+00:15:54,971 --> 00:15:56,993
+所以我打算这样来分析这些功能
+So here's how I want to go through these.
+
+358
+00:15:56,993 --> 00:16:00,754
+Pixel 9有许多新推出的人工智能功能
+There's a bunch of new AI features on the Pixel 9s
+
+359
+00:16:00,754 --> 00:16:08,976
+我想把它们分成有用的、一般的和噱头设计
+and I want to just sort of divide them into useful, meh, and gimmicks
+
+360
+00:16:08,976 --> 00:16:11,097
+这是我这段时间使用它们的亲身体验
+based on my own experience with them over the past couple weeks.
+
+361
+00:16:11,097 --> 00:16:12,398
+我都尝试了一下这些功能
+I've been trying them all, using them
+
+362
+00:16:12,398 --> 00:16:13,958
+对它们做了全面的测试
+putting through their paces
+
+363
+00:16:13,958 --> 00:16:14,979
+我有一些看法
+and I have some thoughts.
+
+364
+00:16:14,979 --> 00:16:17,139
+所以其中一些功能确实相当不错
+So some of them are really good
+
+365
+00:16:17,139 --> 00:16:18,921
+这增强了Pixel的使用体验 还有其他优点...
+and add to the Pixel experience, and others...
+
+366
+00:16:19,955 --> 00:16:21,495
+其实并没那么好 有点被高估了
+Not that great, kind of overrated.
+
+367
+00:16:21,495 --> 00:16:26,496
+总的来说 在实用性上 我觉得Gemini还是有用的 毕竟它只是一个助手
+So under useful, I'm putting Gemini, of course, just the assistant overall.
+
+368
+00:16:26,496 --> 00:16:29,077
+反应很快 处理得也不错 整体不错
+It's quick, it gets things right, fine.
+
+369
+00:16:29,077 --> 00:16:33,837
+接下来是通话记录、视频增强功能 还有‘加我’的选项
+Then I have call notes, video boost, and add me.
+
+370
+00:16:33,837 --> 00:16:37,359
+视频增强似乎在画质上确实带来了意想不到的变化
+So video boost actually seems to make a surprising difference at
+
+371
+00:16:37,359 --> 00:16:39,960
+视频质量真是不错
+how good the video quality comes out of a pixel
+
+372
+00:16:39,960 --> 00:16:40,980
+你能从这些功能中获得的体验也很丰富
+and what you can get out of these.
+
+373
+00:16:42,445 --> 00:16:44,105
+通话记录功能很方便
+call notes is is convenient
+
+374
+00:16:44,105 --> 00:16:46,827
+因为如果你敢在通话中启用这个功能
+because if you have the guts to turn it on on a phone call
+
+375
+00:16:46,827 --> 00:16:50,409
+它可以记录所有内容并进行转录和总结
+it can record everything in just at all transcribe it summarize it
+
+376
+00:16:50,409 --> 00:16:51,931
+而且通话结束后会把内容发送给你
+and give you that after the phone call
+
+377
+00:16:51,931 --> 00:16:54,251
+这功能真是太实用了
+which is it's just useful
+
+378
+00:16:54,251 --> 00:17:00,153
+然后加我一下 哈哈 这听起来很有趣 很不错
+and then add me haha had me add me is interesting it's good
+
+379
+00:17:00,153 --> 00:17:01,654
+它的效果不错
+It works pretty well.
+
+380
+00:17:01,654 --> 00:17:02,475
+我只是觉得
+I just
+
+381
+00:17:02,475 --> 00:17:05,355
+我不太确定人们是否会真正使用它
+I'm not sure if people are going to actually use it
+
+382
+00:17:05,355 --> 00:17:06,797
+或者他们只是试一次就不再用了
+or if they're going to like try it once
+
+383
+00:17:06,797 --> 00:17:07,656
+然后就把它忘了
+and then forget about it
+
+384
+00:17:07,656 --> 00:17:08,836
+然后再回去拍自拍
+and go back to taking selfies.
+
+385
+00:17:08,836 --> 00:17:10,597
+但它好用 能正常发挥功能
+But it does what it's supposed to.
+
+386
+00:17:10,597 --> 00:17:12,219
+就在那个人像模式旁边
+It's right there next to the portrait mode.
+
+387
+00:17:12,219 --> 00:17:14,159
+使用相机时很容易找到
+It's easy to access in the camera.
+
+388
+00:17:14,159 --> 00:17:16,000
+如果你需要拍团体照
+And so if you need to take a group shot
+
+389
+00:17:16,000 --> 00:17:18,560
+而你又没有人帮你拍
+and you actually have no one to take it for you
+
+390
+00:17:18,560 --> 00:17:20,741
+这个功能真的很实用
+this feature is genuinely useful.
+
+391
+00:17:20,741 --> 00:17:23,542
+它只需合并两张照片 哇
+It just combines two pictures and boom
+
+392
+00:17:23,542 --> 00:17:25,242
+现在所有人都在照片里了
+everyone's now on the photo.
+
+393
+00:17:25,242 --> 00:17:27,304
+你可能在想 没错
+In case you were wondering, yes
+
+394
+00:17:27,304 --> 00:17:30,136
+你可以和自己一起拍照
+you can do add me with yourself.
+
+395
+00:17:30,136 --> 00:17:31,838
+是的 如果你仔细看像素细节
+And yes, if you pixel peep
+
+396
+00:17:31,838 --> 00:17:34,840
+你会发现它并不是每次都完美
+you can tell that it's not perfect every single time.
+
+397
+00:17:34,840 --> 00:17:36,423
+边缘有些模糊
+There are fuzzy edges.
+
+398
+00:17:36,423 --> 00:17:39,746
+显然是用了第一张照片的基本框架
+It's clearly using the base frame from the first photo
+
+399
+00:17:39,746 --> 00:17:42,548
+然后再合成最后一个人
+and then compositing in the last person.
+
+400
+00:17:42,548 --> 00:17:46,853
+不过 总体来说 谷歌做得这么深入
+But in general, the fact that Google has leaned this far in
+
+401
+00:17:46,853 --> 00:17:49,295
+还凭空创造了一个非常实用的功能
+and created a genuinely useful feature out of thin air
+
+402
+00:17:49,295 --> 00:17:51,336
+简直抛弃了现实
+by just abandoning reality
+
+403
+00:17:51,336 --> 00:17:54,768
+在 Pixel 相机应用里 我想是这样的
+in the Pixel camera app I guess, yeah
+
+404
+00:17:54,768 --> 00:17:55,648
+你得给他们点个赞啊
+you gotta give them credit.
+
+405
+00:17:55,648 --> 00:17:57,970
+但人们真的知道怎么用这个吗？
+It's just will people actually know to use this
+
+406
+00:17:57,970 --> 00:18:00,832
+他们会往常一样拍自拍吗？
+or will they just go back to taking like a selfie with everyone behind them
+
+407
+00:18:00,832 --> 00:18:02,173
+这样就能把每个人都拍进来？
+so they get everyone in the shot?
+
+408
+00:18:02,173 --> 00:18:03,094
+我也不太清楚
+I don't know.
+
+409
+00:18:03,094 --> 00:18:03,815
+时间会告诉我们
+Only time will tell.
+
+410
+00:18:03,815 --> 00:18:05,395
+所以那个就有点无聊了
+So then there's meh.
+
+411
+00:18:05,395 --> 00:18:07,896
+还有些还不错的东西
+There's like the okay stuff.
+
+412
+00:18:07,896 --> 00:18:12,060
+在新的天气应用里 我能看到新的天气摘要
+So I have the new weather summaries in the new weather app.
+
+413
+00:18:12,060 --> 00:18:13,402
+这些是人工智能生成的
+They're AI generated.
+
+414
+00:18:13,402 --> 00:18:14,622
+在应用的最上方
+So right at the top of the app there
+
+415
+00:18:14,622 --> 00:18:17,324
+上面会给你介绍今天的情况
+it gives you some text to describe the day for you
+
+416
+00:18:17,324 --> 00:18:21,396
+这样你就不用看那些烦人的数字了
+so you don't have to look at all those confusing numbers underneath.
+
+417
+00:18:21,396 --> 00:18:24,580
+老实说 这有时候还挺有用的
+Honestly, it's actually kind of useful sometimes.
+
+418
+00:18:24,580 --> 00:18:26,805
+不过这真的是人工智能吗？
+But is this really AI?
+
+419
+00:18:26,805 --> 00:18:30,829
+也许这个句子的结构是来自某种语言模型？
+Like, maybe the sentence structure is coming from an LLM or something?
+
+420
+00:18:31,916 --> 00:18:32,457
+我不知道
+I don't know.
+
+421
+00:18:32,457 --> 00:18:32,877
+无所谓
+Whatever.
+
+422
+00:18:32,877 --> 00:18:33,637
+没问题
+It's fine.
+
+423
+00:18:33,637 --> 00:18:36,961
+它肯定没跟我说这些云要来了
+It certainly didn't tell me about all this clouds coming in,
+
+424
+00:18:36,961 --> 00:18:38,141
+可能还会下雨
+probably gonna dump some rain
+
+425
+00:18:38,141 --> 00:18:39,883
+还会影响我的光线
+and also ruin my lighting.
+
+426
+00:18:39,883 --> 00:18:44,144
+但魔法编辑器推出了一个新功能
+But then Magic Editor got this re-imagine feature
+
+427
+00:18:44,144 --> 00:18:46,287
+可以让你突出图像的任意部分
+that lets you highlight any part of an image
+
+428
+00:18:46,287 --> 00:18:49,048
+然后输入一些文本 让你的照片焕然一新
+and then enter some text to turn it into something else
+
+429
+00:18:49,048 --> 00:18:52,090
+
+completely different to have your photos look like
+
+430
+00:18:52,090 --> 00:18:52,411
+我也不太清楚
+I don't know
+
+431
+00:18:52,411 --> 00:18:55,777
+一个幻想世界 没发生过的事情
+a fantasy land or something that also never happened.
+
+432
+00:18:55,777 --> 00:19:00,179
+它就是不愿意处理我那些更戏剧化的编辑
+It does outright refuse to do some of my more dramatic edits.
+
+433
+00:19:00,179 --> 00:19:03,400
+就像 它好像从来不想重新想象人物
+Like, it doesn't seem to want to reimagine people ever.
+
+434
+00:19:03,400 --> 00:19:05,519
+但是 它会高兴地给背景加一些物体
+But it'll happily add objects to the background
+
+435
+00:19:05,519 --> 00:19:08,981
+或者 还能改变场景
+or change the setting entirely if you're into that.
+
+436
+00:19:08,981 --> 00:19:09,461
+这我就不知道了
+I don't know.
+
+437
+00:19:09,461 --> 00:19:10,862
+照片到底算什么呢？
+What is a photo anyway?
+
+438
+00:19:10,862 --> 00:19:14,503
+最后一个 虽然也没什么特别的
+And then the last meh, but not least, or whatever
+
+439
+00:19:14,503 --> 00:19:18,164
+这是截图应用
+is the Screenshots app.
+
+440
+00:19:19,631 --> 00:19:21,672
+我是不是漏掉了什么？
+am i missing something here
+
+441
+00:19:21,672 --> 00:19:23,693
+我的意思是 我明白这个前提
+i mean i get the premise
+
+442
+00:19:23,693 --> 00:19:26,434
+你手机里有一些截图
+you have some screenshots on your phone that you've taken
+
+443
+00:19:26,434 --> 00:19:30,117
+为了保存一些重要信息
+where you want to save some critical information in them
+
+444
+00:19:30,117 --> 00:19:31,479
+他们设计了一个存储空间
+so they built a place
+
+445
+00:19:31,479 --> 00:19:33,740
+你可以把这些截图整理成不同的集合
+where you can organize them all into collections
+
+446
+00:19:33,740 --> 00:19:36,241
+这非常方便 你可以搜索
+which is convenient you can search through them
+
+447
+00:19:36,241 --> 00:19:38,303
+还可以设置特定日期提醒
+you can have it remind you at a certain date
+
+448
+00:19:38,303 --> 00:19:40,805
+以及特定截图的时间
+and time of a specific screenshot
+
+449
+00:19:40,805 --> 00:19:46,008
+甚至可以直接链接到截图的网页
+and even link you back to the web page that you took a screenshot of
+
+450
+00:19:46,008 --> 00:19:48,556
+这使得所有信息都能被搜索
+and it makes all this information searchable.
+
+451
+00:19:48,556 --> 00:19:50,477
+不过 我在想...
+But I'm sitting here thinking
+
+452
+00:19:50,477 --> 00:19:53,417
+难道这不应该已经在谷歌照片里集成了吗？
+shouldn't this have been built into Google Photos?
+
+453
+00:19:53,417 --> 00:19:56,799
+你知道吗 三星的照片应用其实已经实现了
+Like, did you know that Samsung's Photos app already built in
+
+454
+00:19:56,799 --> 00:19:57,859
+智能链接
+the smart linking
+
+455
+00:19:57,859 --> 00:19:59,820
+可以链接到任何你截图的网站
+to any website you take a screenshot of?
+
+456
+00:19:59,820 --> 00:20:00,842
+我是说 别搞错了
+I mean, don't get me wrong.
+
+457
+00:20:00,842 --> 00:20:01,642
+它是有效的
+It works.
+
+458
+00:20:01,642 --> 00:20:03,282
+它做到了该做的事
+It does what it's supposed to.
+
+459
+00:20:03,282 --> 00:20:04,262
+我猜
+My theory is it's
+
+460
+00:20:04,262 --> 00:20:09,265
+他们可能对每张照片中的文本和信息进行了更多分析
+they're probably doing slightly more analysis, more processing
+
+461
+00:20:09,265 --> 00:20:12,787
+对每张照片的文本和信息进行了处理
+of all the bits of text and information in each photo.
+
+462
+00:20:13,848 --> 00:20:15,989
+比起普通的 Google Photos 应用 他们的表现更佳
+than they would with the normal Google Photos app.
+
+463
+00:20:15,989 --> 00:20:19,430
+这正是使所有索引和功能得以实现的原因
+So that is what enables all the indexing and everything.
+
+464
+00:20:19,430 --> 00:20:21,710
+如果一切顺利的话
+And then maybe if it goes well
+
+465
+00:20:21,710 --> 00:20:25,671
+他们是不是也会把这些添加到照片应用里呢？
+they'll also bring all that to the Photos app, maybe?
+
+466
+00:20:25,671 --> 00:20:27,152
+要是进展不顺利的话
+Or if it doesn't go well
+
+467
+00:20:27,152 --> 00:20:28,212
+他们是不是可以轻松放弃呢？
+then they can kill it easily?
+
+468
+00:20:28,212 --> 00:20:28,972
+我不太确定
+I don't know.
+
+469
+00:20:28,972 --> 00:20:29,792
+没事 随便吧
+Whatever.
+
+470
+00:20:29,792 --> 00:20:30,793
+没事 挺好的
+It's fine.
+
+471
+00:20:30,793 --> 00:20:34,053
+不过比起我那一段的花招 这还算不错
+That's not, though, as bad as my gimmicks section.
+
+472
+00:20:34,053 --> 00:20:35,714
+放大增强 真的来了……
+So Zoom Enhance...
+
+473
+00:20:36,872 --> 00:20:37,632
+你听说了吗？
+Have you heard about this?
+
+474
+00:20:37,632 --> 00:20:40,273
+照片应用终于推出了新编辑功能！
+There's a new edit feature finally shipping in the Photos app
+
+475
+00:20:40,273 --> 00:20:44,395
+鼓励你尽情放大照片
+that encourages you to zoom all the way in on a photo
+
+476
+00:20:44,395 --> 00:20:46,816
+然后就可以体验它的像素处理效果
+and then let it do its pixel magic
+
+477
+00:20:46,816 --> 00:20:48,836
+它会播放一段动画 仿佛
+where it plays this whole animation like it's going to
+
+478
+00:20:48,836 --> 00:20:49,997
+要重现你的照片
+reconstruct your photo
+
+479
+00:20:49,997 --> 00:20:51,357
+并揭露隐藏的细节
+and find some hidden details.
+
+480
+00:20:52,498 --> 00:20:54,098
+但它其实并没做到
+But it kind of never does.
+
+481
+00:20:54,098 --> 00:20:54,698
+说到底
+At the end of the day
+
+482
+00:20:54,698 --> 00:20:57,619
+它只是稍微提高了清晰度滤镜
+all it does is sort of turn up the clarity filter
+
+483
+00:20:57,619 --> 00:21:00,240
+可能还加了一些假纹理效果
+and maybe add what feels like some fake texture
+
+484
+00:21:00,240 --> 00:21:02,567
+我觉得这里应该有些东西
+where I think there should have been some.
+
+485
+00:21:02,567 --> 00:21:03,827
+我不太信这个
+I'm not buying it.
+
+486
+00:21:03,827 --> 00:21:06,268
+然后是 Pixel Studio 应用
+And then there's the Pixel Studio app
+
+487
+00:21:06,268 --> 00:21:07,948
+这只是一个小而实用的应用
+which is just this neat little app
+
+488
+00:21:07,948 --> 00:21:11,369
+可以在设备上生成新图像
+to generate new images completely on device.
+
+489
+00:21:11,369 --> 00:21:14,370
+我并不是说它不起作用
+And again, what I'm not saying is that it doesn't work.
+
+490
+00:21:14,370 --> 00:21:18,971
+它在设备上大约三秒就能很好地工作
+It actually does work impressively well in like three seconds on device.
+
+491
+00:21:18,971 --> 00:21:20,712
+它可以生成你想要的任何内容
+It can generate whatever you want.
+
+492
+00:21:20,712 --> 00:21:21,932
+我只是觉得
+It's just that I don't
+
+493
+00:21:21,932 --> 00:21:24,713
+我真看不出这有什么实际用途 除了
+I guess I don't really see a real genuine use for this other than just
+
+494
+00:21:24,713 --> 00:21:25,393
+随便玩玩
+messing around,
+
+495
+00:21:25,393 --> 00:21:26,734
+老实说
+which, hey, honestly
+
+496
+00:21:26,734 --> 00:21:27,394
+这样也没问题
+that's fine too.
+
+497
+00:21:27,394 --> 00:21:28,374
+如果你只是想随意玩玩
+If you just want to mess around
+
+498
+00:21:28,374 --> 00:21:32,308
+或者做个带腿的肉丸三明治
+and make a meatball sub with legs
+
+499
+00:21:32,308 --> 00:21:34,849
+那就行 尽情享受吧！
+then you got it, knock yourself out.
+
+500
+00:21:39,010 --> 00:21:41,511
+所以在大雨之前
+So before it starts pouring rain
+
+501
+00:21:41,511 --> 00:21:47,353
+2024年新智能手机的趋势是
+the meta with new smartphones in 2024 is, you know,
+
+502
+00:21:47,353 --> 00:21:49,694
+整体上有些小改进
+slight improvements across the board,
+
+503
+00:21:49,694 --> 00:21:52,874
+而且还推出了一些炫目的新人工智能功能
+but then also some splashy new AI features
+
+504
+00:21:52,874 --> 00:21:55,156
+只在最新款中可用
+that are only available on the newest one
+
+505
+00:21:55,156 --> 00:21:57,519
+这是因为新芯片和神经核心的原因
+because the new chip and the new neural cores
+
+506
+00:21:57,519 --> 00:21:59,361
+因此 这就是它特别的原因
+and it's just special for that reason.
+
+507
+00:21:59,361 --> 00:22:00,983
+所以 这就是现在的情况
+So that's, that's what's happening.
+
+508
+00:22:00,983 --> 00:22:01,543
+如果你愿意的话
+And if you want
+
+509
+00:22:01,543 --> 00:22:04,666
+你可以轻松把这些新Pixel手机视为那种选择
+you could easily throw these new Pixels into that camp.
+
+510
+00:22:04,666 --> 00:22:09,051
+不过 买这款手机的理由其实和以前的
+But the reason you'd buy this phone is really just the same
+
+511
+00:22:09,051 --> 00:22:10,468
+Pixel一样
+as ever for a Pixel.
+
+512
+00:22:10,468 --> 00:22:12,129
+它是房间里最智能的手机
+It's the smartest smartphone in the room
+
+513
+00:22:12,129 --> 00:22:15,091
+而且现在它采用了相当不错的硬件
+and it's now also in a piece of kind of nice hardware
+
+514
+00:22:15,091 --> 00:22:17,073
+使用起来手感都很舒适
+that's a pleasure to hold and use.
+
+515
+00:22:17,073 --> 00:22:19,434
+此外 还有一堆AI功能
+And then there's a bunch of AI stuff on top
+
+516
+00:22:19,434 --> 00:22:22,476
+试试 要么喜欢就用 要么不管它
+that you can try and either take it or leave it.
+
+517
+00:22:22,476 --> 00:22:23,657
+这就看你自己了
+It's kind of just up to you
+
+518
+00:22:23,657 --> 00:22:25,258
+如果你想好好利用这些功能的话
+if you want to get a bunch of use out of that stuff
+
+519
+00:22:25,258 --> 00:22:27,140
+或者连碰都不碰
+or literally never touch it at all.
+
+520
+00:22:27,140 --> 00:22:28,861
+我很好奇你在下面留言
+I'm curious if you leave a comment down below
+
+521
+00:22:28,861 --> 00:22:31,763
+你觉得哪些东西会用得上？
+what sort of stuff you think you would use
+
+522
+00:22:31,763 --> 00:22:33,044
+还是直接买手机使用？
+or buy the phone to use
+
+523
+00:22:33,044 --> 00:22:35,185
+或者你觉得哪些东西根本没用
+or which stuff you don't think is that useful at all.
+
+524
+00:22:35,185 --> 00:22:35,786
+最终来说
+At the end of the day
+
+525
+00:22:35,786 --> 00:22:38,104
+我们还得看看它的耐用性
+we'll have to see how it ages
+
+526
+00:22:38,104 --> 00:22:39,605
+不过我觉得 Pixel 9
+but I'm thinking Pixel 9
+
+527
+00:22:39,605 --> 00:22:43,326
+而 9 Pro 也是他们迄今为止最出色的作品之一
+and 9 Pro is some of their finest work yet.
+
+528
+00:22:43,326 --> 00:22:46,347
+另外 特别感谢 Anker 的赞助
+Also, shout out to Anker for sponsoring this video.
+
+529
+00:22:46,347 --> 00:22:47,867
+他们的新 Anker Prime 系列
+Their new Anker Prime lineup
+
+530
+00:22:47,867 --> 00:22:51,249
+是迄今为止最先进的多设备快充产品
+is their most advanced multi-device fast charger they've made yet.
+
+531
+00:22:51,249 --> 00:22:55,150
+其中包括三个充电站、一个底座、
+That includes three charging stations, one docking station,
+
+532
+00:22:55,150 --> 00:22:56,590
+和一个壁充
+one wall charger,
+
+533
+00:22:56,590 --> 00:22:58,931
+一个移动电源和一根新充电线
+one power bank, and one new cable.
+
+534
+00:22:58,931 --> 00:23:00,472
+对我来说 最突出的两个产品是
+So the two that stand out to me the most are
+
+535
+00:23:00,472 --> 00:23:02,492
+Anker Prime充电站
+the Anker Prime charging station
+
+536
+00:23:02,492 --> 00:23:04,913
+还有Anker Prime移动电源
+and the Anker Prime power bank.
+
+537
+00:23:04,913 --> 00:23:07,995
+这款充电站是一款桌面配件
+The charging station is this desktop accessory
+
+538
+00:23:07,995 --> 00:23:11,337
+总功率可达250瓦
+that can kick out 250 watts in total
+
+539
+00:23:11,337 --> 00:23:14,159
+在四个USB-C和两个USB-A端口中
+among its four USB-C and two USB-A ports.
+
+540
+00:23:14,159 --> 00:23:15,400
+并且配有显示屏
+And then it has a display
+
+541
+00:23:15,400 --> 00:23:18,382
+可以显示每个端口的实时功率
+that can show you how much power each port is drawing actively.
+
+542
+00:23:18,382 --> 00:23:21,785
+而且你可以为每个端口自定义充电优先级
+And then it lets you customize charging priority on each port.
+
+543
+00:23:21,785 --> 00:23:23,566
+因此你可以让它智能地自动调整
+So you can let it just sort of auto adjust
+
+544
+00:23:23,566 --> 00:23:26,948
+让需求最高的设备获得它们能接受的最大充电
+and make the highest demanding items get the max charge that they can take.
+
+545
+00:23:26,948 --> 00:23:28,752
+这个移动电源
+And then the power bank
+
+546
+00:23:28,752 --> 00:23:33,875
+它的容量为9600毫安时 还有两个USB-C端口
+has a 9,600 mAh capacity and there's two USB-C ports on it
+
+547
+00:23:33,875 --> 00:23:36,616
+输出功率最高可达65瓦
+and up to 65 watts output from this thing.
+
+548
+00:23:36,616 --> 00:23:38,537
+而且它也可以当作墙壁充电器使用
+But it can also be a wall charger too.
+
+549
+00:23:38,537 --> 00:23:40,879
+这块1.3英寸的显示屏会显示
+So that 1.3 inch display is going to show you
+
+550
+00:23:40,879 --> 00:23:42,639
+你剩下的电量
+how much battery you have left
+
+551
+00:23:42,639 --> 00:23:45,741
+以及每个端口输出了多少电量
+and how much power each of those ports is outputting.
+
+552
+00:23:45,741 --> 00:23:46,602
+你可以去了解一下它们
+So you can check them out
+
+553
+00:23:46,602 --> 00:23:49,563
+还有其他Anker Prime产品的详细信息 可以在视频描述中查看
+and the rest of the Anker Prime lineup in the video description.
+
+554
+00:23:49,563 --> 00:23:51,604
+反正 这就是我想说的全部
+But either way, that's been it.
+
+555
+00:23:51,604 --> 00:23:53,326
+在下大雨之前 我把这个给做完了
+I got this in before.
+
+556
+00:23:53,326 --> 00:23:54,368
+大雨突然开始了
+The pouring rain started
+
+557
+00:23:54,368 --> 00:23:55,230
+所以我对此还是挺自豪的
+so I'm pretty proud of that.
+
+558
+00:23:55,230 --> 00:23:57,254
+欢迎在下面的评论中告诉我你的想法！
+But let me know what you think in the comments below.
+
+559
+00:23:57,254 --> 00:23:59,718
+下次视频再见！
+Talk to you guys in the next one.
+
+560
+00:23:59,718 --> 00:23:59,899
+拜拜！
+Peace.
