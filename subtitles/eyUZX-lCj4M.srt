@@ -1,0 +1,274 @@
+1
+00:00:08,598 --> 00:00:09,878
+你好 我是迈克
+Hi, I'm Mike.
+
+2
+00:00:09,878 --> 00:00:10,858
+我叫穆斯塔法
+And I'm Mustafa.
+
+3
+00:00:10,858 --> 00:00:13,239
+我们在MetaFair从事触感感知的研究
+And we're working on touch perception at MetaFair.
+
+4
+00:00:16,178 --> 00:00:18,300
+MetaFair团队兴奋地推出
+Our MetaFair team is excited to release
+
+5
+00:00:18,300 --> 00:00:20,440
+几项机器人技术的最新成果
+several cutting-edge developments in robotics
+
+6
+00:00:20,440 --> 00:00:23,081
+以及触觉感知 这标志着
+and touch perception that mark a significant step
+
+7
+00:00:23,081 --> 00:00:25,521
+我们对物理世界理解的重大飞跃
+forward in our understanding of the physical world
+
+8
+00:00:25,521 --> 00:00:27,481
+以及我们与之进行有意义互动的能力
+and our ability to interact with it in meaningful ways.
+
+9
+00:00:28,582 --> 00:00:29,862
+我们来谈谈SPARSH
+Let's begin with SPARSH.
+
+10
+00:00:29,862 --> 00:00:32,902
+SPARSH是首个通用触觉表示系统
+SPARSH is the first general-purpose touch representation
+
+11
+00:00:32,902 --> 00:00:34,823
+适用于各种触觉传感器
+that works across any tactile sensor
+
+12
+00:00:34,823 --> 00:00:36,129
+和任务
+and any task.
+
+13
+00:00:36,129 --> 00:00:40,071
+为了实现这个目标 我们使用460,000张触觉图像
+To achieve this, we train SPARSH using 460,000 tactile images
+
+14
+00:00:40,071 --> 00:00:41,952
+通过自我监督学习来训练SPARSH
+with self-supervised learning.
+
+15
+00:00:41,952 --> 00:00:44,173
+在基准测试中 SPARSH的表现优于
+In benchmarks, we find that SPARSH outperforms
+
+16
+00:00:44,173 --> 00:00:45,694
+特定任务和传感器的模型
+task and sensor-specific models
+
+17
+00:00:45,694 --> 00:00:47,314
+平均超过95%
+by an average of over 95%.
+
+18
+00:00:48,555 --> 00:00:50,056
+SPARSH提供了预训练基础模型
+SPARSH unlocks pre-trained backbones
+
+19
+00:00:50,056 --> 00:00:52,157
+使我们测量力量
+that allow us to measure properties like forces
+
+20
+00:00:52,157 --> 00:00:52,677
+和接触特性
+and contact
+
+21
+00:00:52,677 --> 00:00:54,118
+这些特性是视觉无法察觉的
+which are imperceptible through vision.
+
+22
+00:00:55,158 --> 00:00:57,059
+我们的目标是激励社区来构建
+Our aim is to empower the community to build
+
+23
+00:00:57,059 --> 00:00:59,080
+并将这些模型扩展到新的应用领域
+and scale these models towards novel applications.
+
+24
+00:01:00,460 --> 00:01:02,402
+接下来我们将介绍Digit360
+Which leads us to Digit360
+
+25
+00:01:02,402 --> 00:01:05,724
+一种突破性触觉传感器 具有人类水平的
+a breakthrough tactile sensor that perceives the world with human-level
+
+26
+00:01:05,724 --> 00:01:07,585
+触觉感知能力
+touch sensing capabilities.
+
+27
+00:01:07,585 --> 00:01:08,947
+搭载设备内的人工智能
+With on-device AI
+
+28
+00:01:08,947 --> 00:01:12,950
+Digit360 在本地处理信息 做出决策
+Digit360 processes information locally and makes decisions
+
+29
+00:01:12,950 --> 00:01:16,251
+灵感来自人类和动物的反射机制
+inspired by the reflex function in people and animals.
+
+30
+00:01:16,251 --> 00:01:19,754
+这使得传感器能够迅速响应各种输入
+This allows a sensor to respond quickly to various inputs,
+
+31
+00:01:19,754 --> 00:01:21,256
+例如针刺的接触
+such as the poke of a needle
+
+32
+00:01:21,256 --> 00:01:23,149
+或是网球的变形
+or the flex of a tennis ball.
+
+33
+00:01:23,149 --> 00:01:25,330
+它能迅速响应各种输入
+It responds quickly to various inputs,
+
+34
+00:01:25,330 --> 00:01:27,331
+模拟人类手指的动作
+mimicking the performance of a human finger
+
+35
+00:01:27,331 --> 00:01:30,914
+因此 它成为了多种应用的创新方案
+making it an innovative solution for multiple applications.
+
+36
+00:01:30,914 --> 00:01:33,995
+我们把Digit360和DigitPlexus结合在一起了
+We've also paired Digit360 with DigitPlexus
+
+37
+00:01:33,995 --> 00:01:38,099
+一个用于标准化机器人传感器连接和交互的平台
+a platform that standardizes robotic sensor connection and interactions,
+
+38
+00:01:38,099 --> 00:01:42,081
+模拟人手在具身人工智能中的触觉信息处理
+mimicking the human hand's touch information processing for embodied AI.
+
+39
+00:01:42,081 --> 00:01:45,163
+DigitPlexus提供硬件和软件组件
+DigitPlexus provides hardware and software components
+
+40
+00:01:45,163 --> 00:01:49,046
+便于轻松集成触觉传感技术到机器人系统
+for easy integration of touch sensing technology into robotic systems.
+
+41
+00:01:50,518 --> 00:01:53,241
+最后 我们和GelSight、Wannick Robotics合作了
+Finally, we are partnering with GelSight and Wannick Robotics
+
+42
+00:01:53,241 --> 00:01:54,581
+他们是行业领军者
+who are leaders in the industry,
+
+43
+00:01:54,581 --> 00:01:57,665
+致力于开发和推广这些触觉传感技术
+to develop and commercialize these touch sensing innovations.
+
+44
+00:01:57,665 --> 00:01:59,546
+我们希望让社区一起参与
+Our hope is to bring the community along
+
+45
+00:01:59,546 --> 00:02:02,209
+共同推动人工智能和机器人领域的进步
+and work together in driving the progress in AI and robotics.
+
+46
+00:02:03,209 --> 00:02:06,272
+在机器人领域之外 这些进展可以帮助我们将物理世界
+Beyond robotics, these advancements can help bring the physical world
+
+47
+00:02:06,272 --> 00:02:08,375
+与数字世界更紧密地连接
+and the digital world closer together.
+
+48
+00:02:08,375 --> 00:02:10,496
+想象一下在游戏里拿起一个物品
+Imagine picking up an object in a game
+
+49
+00:02:10,496 --> 00:02:13,218
+或是在网上购物时扫描一块布
+or scanning a piece of fabric during online shopping.
+
+50
+00:02:13,218 --> 00:02:15,101
+这甚至可能推动假肢技术的发展
+This could even lead to advancements in prosthetics.
+
+51
+00:02:16,140 --> 00:02:18,182
+我们希望建立一个充满活力的社区
+Our hope is to build a driving community
+
+52
+00:02:18,182 --> 00:02:22,187
+并最终让触觉感应技术在现实生活中变得切实可行
+and ultimately make touch sensing practical out there in the real world.
+
+53
+00:02:22,187 --> 00:02:24,229
+这项研究让我们更接近于
+This work brings us one step closer
+
+54
+00:02:24,229 --> 00:02:27,274
+理解触觉数字化的真正含义
+to understanding what it means to digitize touch.
+
+55
+00:02:27,274 --> 00:02:29,877
+那个未来几乎就在眼前了
+And that future is almost within reach.
